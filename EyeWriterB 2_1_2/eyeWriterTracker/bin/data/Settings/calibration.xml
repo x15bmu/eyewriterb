@@ -1,0 +1,2179 @@
+<term>
+    <x>-40.915600</x>
+    <y>-2.095067</y>
+</term>
+<term>
+    <x>0.146407</x>
+    <y>0.016688</y>
+</term>
+<term>
+    <x>8.155304</x>
+    <y>38.312054</y>
+</term>
+<term>
+    <x>0.016534</x>
+    <y>-0.041834</y>
+</term>
+<term>
+    <x>-0.213212</x>
+    <y>-0.184489</y>
+</term>
+<term>
+    <x>1461.104614</x>
+    <y>778.109680</y>
+</term>
+<nRefPoints>25</nRefPoints>
+<referencepoint>
+    <x>32.000000</x>
+    <y>702.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>32.106117</x>
+    <y>690.597290</y>
+</inputaverage>
+<referencepoint>
+    <x>336.000000</x>
+    <y>702.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>341.355194</x>
+    <y>700.328247</y>
+</inputaverage>
+<referencepoint>
+    <x>640.000000</x>
+    <y>702.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>666.846863</x>
+    <y>688.715942</y>
+</inputaverage>
+<referencepoint>
+    <x>944.000000</x>
+    <y>702.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>953.515076</x>
+    <y>700.316223</y>
+</inputaverage>
+<referencepoint>
+    <x>1248.000000</x>
+    <y>702.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>1231.171875</x>
+    <y>711.966431</y>
+</inputaverage>
+<referencepoint>
+    <x>1248.000000</x>
+    <y>531.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>1208.475830</x>
+    <y>561.258057</y>
+</inputaverage>
+<referencepoint>
+    <x>944.000000</x>
+    <y>531.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>950.829407</x>
+    <y>531.261047</y>
+</inputaverage>
+<referencepoint>
+    <x>640.000000</x>
+    <y>531.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>620.986694</x>
+    <y>511.514404</y>
+</inputaverage>
+<referencepoint>
+    <x>336.000000</x>
+    <y>531.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>333.466278</x>
+    <y>537.156616</y>
+</inputaverage>
+<referencepoint>
+    <x>32.000000</x>
+    <y>531.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>28.832684</x>
+    <y>547.129456</y>
+</inputaverage>
+<referencepoint>
+    <x>32.000000</x>
+    <y>360.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>3.520492</x>
+    <y>371.187958</y>
+</inputaverage>
+<referencepoint>
+    <x>336.000000</x>
+    <y>360.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>331.559021</x>
+    <y>352.849030</y>
+</inputaverage>
+<referencepoint>
+    <x>640.000000</x>
+    <y>360.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>644.602356</x>
+    <y>353.082245</y>
+</inputaverage>
+<referencepoint>
+    <x>944.000000</x>
+    <y>360.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>956.905334</x>
+    <y>354.197479</y>
+</inputaverage>
+<referencepoint>
+    <x>1248.000000</x>
+    <y>360.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>1276.008057</x>
+    <y>349.932648</y>
+</inputaverage>
+<referencepoint>
+    <x>1248.000000</x>
+    <y>189.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>1266.674927</x>
+    <y>166.076416</y>
+</inputaverage>
+<referencepoint>
+    <x>944.000000</x>
+    <y>189.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>912.468079</x>
+    <y>172.865814</y>
+</inputaverage>
+<referencepoint>
+    <x>640.000000</x>
+    <y>189.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>642.366333</x>
+    <y>200.593292</y>
+</inputaverage>
+<referencepoint>
+    <x>336.000000</x>
+    <y>189.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>365.982239</x>
+    <y>190.930786</y>
+</inputaverage>
+<referencepoint>
+    <x>32.000000</x>
+    <y>189.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>37.085587</x>
+    <y>196.604095</y>
+</inputaverage>
+<referencepoint>
+    <x>32.000000</x>
+    <y>18.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>30.314680</x>
+    <y>-9.063523</y>
+</inputaverage>
+<referencepoint>
+    <x>336.000000</x>
+    <y>18.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>356.651642</x>
+    <y>18.728651</y>
+</inputaverage>
+<referencepoint>
+    <x>640.000000</x>
+    <y>18.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>634.511414</x>
+    <y>26.544744</y>
+</inputaverage>
+<referencepoint>
+    <x>944.000000</x>
+    <y>18.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>910.515869</x>
+    <y>40.940414</y>
+</inputaverage>
+<referencepoint>
+    <x>1248.000000</x>
+    <y>18.000000</y>
+</referencepoint>
+<inputaverage>
+    <x>1258.479492</x>
+    <y>34.857216</y>
+</inputaverage>
+<nEyeRawInputPoints>244</nEyeRawInputPoints>
+<eyePoints>
+    <x>40.835480</x>
+    <y>-0.870247</y>
+</eyePoints>
+<eyePoints>
+    <x>40.835480</x>
+    <y>-0.870247</y>
+</eyePoints>
+<eyePoints>
+    <x>40.939892</x>
+    <y>-0.846802</y>
+</eyePoints>
+<eyePoints>
+    <x>40.939892</x>
+    <y>-0.846802</y>
+</eyePoints>
+<eyePoints>
+    <x>40.910614</x>
+    <y>-0.871952</y>
+</eyePoints>
+<eyePoints>
+    <x>40.910614</x>
+    <y>-0.871952</y>
+</eyePoints>
+<eyePoints>
+    <x>40.888756</x>
+    <y>-0.882523</y>
+</eyePoints>
+<eyePoints>
+    <x>40.888756</x>
+    <y>-0.882523</y>
+</eyePoints>
+<eyePoints>
+    <x>40.915527</x>
+    <y>-0.931911</y>
+</eyePoints>
+<eyePoints>
+    <x>40.915527</x>
+    <y>-0.931911</y>
+</eyePoints>
+<eyePoints>
+    <x>30.845058</x>
+    <y>-0.873737</y>
+</eyePoints>
+<eyePoints>
+    <x>30.845058</x>
+    <y>-0.873737</y>
+</eyePoints>
+<eyePoints>
+    <x>30.764797</x>
+    <y>-0.907509</y>
+</eyePoints>
+<eyePoints>
+    <x>30.764797</x>
+    <y>-0.907509</y>
+</eyePoints>
+<eyePoints>
+    <x>30.710388</x>
+    <y>-0.872871</y>
+</eyePoints>
+<eyePoints>
+    <x>30.710388</x>
+    <y>-0.872871</y>
+</eyePoints>
+<eyePoints>
+    <x>30.898052</x>
+    <y>-0.827503</y>
+</eyePoints>
+<eyePoints>
+    <x>30.898052</x>
+    <y>-0.827503</y>
+</eyePoints>
+<eyePoints>
+    <x>20.567051</x>
+    <y>-1.440647</y>
+</eyePoints>
+<eyePoints>
+    <x>20.603085</x>
+    <y>-1.449440</y>
+</eyePoints>
+<eyePoints>
+    <x>20.603085</x>
+    <y>-1.449440</y>
+</eyePoints>
+<eyePoints>
+    <x>21.203262</x>
+    <y>-1.386177</y>
+</eyePoints>
+<eyePoints>
+    <x>21.203262</x>
+    <y>-1.386177</y>
+</eyePoints>
+<eyePoints>
+    <x>21.125431</x>
+    <y>-1.350155</y>
+</eyePoints>
+<eyePoints>
+    <x>21.125431</x>
+    <y>-1.350155</y>
+</eyePoints>
+<eyePoints>
+    <x>21.556934</x>
+    <y>-1.473682</y>
+</eyePoints>
+<eyePoints>
+    <x>21.556934</x>
+    <y>-1.473682</y>
+</eyePoints>
+<eyePoints>
+    <x>21.466846</x>
+    <y>-1.582436</y>
+</eyePoints>
+<eyePoints>
+    <x>13.294750</x>
+    <y>-1.095627</y>
+</eyePoints>
+<eyePoints>
+    <x>13.294750</x>
+    <y>-1.095627</y>
+</eyePoints>
+<eyePoints>
+    <x>13.299545</x>
+    <y>-1.212952</y>
+</eyePoints>
+<eyePoints>
+    <x>13.299545</x>
+    <y>-1.212952</y>
+</eyePoints>
+<eyePoints>
+    <x>13.239368</x>
+    <y>-1.207001</y>
+</eyePoints>
+<eyePoints>
+    <x>13.239368</x>
+    <y>-1.207001</y>
+</eyePoints>
+<eyePoints>
+    <x>13.276699</x>
+    <y>-1.251133</y>
+</eyePoints>
+<eyePoints>
+    <x>13.276699</x>
+    <y>-1.251133</y>
+</eyePoints>
+<eyePoints>
+    <x>13.386452</x>
+    <y>-1.193645</y>
+</eyePoints>
+<eyePoints>
+    <x>13.386452</x>
+    <y>-1.193645</y>
+</eyePoints>
+<eyePoints>
+    <x>13.314598</x>
+    <y>-1.123127</y>
+</eyePoints>
+<eyePoints>
+    <x>13.314598</x>
+    <y>-1.123127</y>
+</eyePoints>
+<eyePoints>
+    <x>6.303562</x>
+    <y>-0.906754</y>
+</eyePoints>
+<eyePoints>
+    <x>6.303562</x>
+    <y>-0.906754</y>
+</eyePoints>
+<eyePoints>
+    <x>6.230644</x>
+    <y>-0.881170</y>
+</eyePoints>
+<eyePoints>
+    <x>6.230644</x>
+    <y>-0.881170</y>
+</eyePoints>
+<eyePoints>
+    <x>6.243305</x>
+    <y>-0.914368</y>
+</eyePoints>
+<eyePoints>
+    <x>6.243305</x>
+    <y>-0.914368</y>
+</eyePoints>
+<eyePoints>
+    <x>6.243305</x>
+    <y>-0.914368</y>
+</eyePoints>
+<eyePoints>
+    <x>6.189781</x>
+    <y>-0.884371</y>
+</eyePoints>
+<eyePoints>
+    <x>6.189781</x>
+    <y>-0.884371</y>
+</eyePoints>
+<eyePoints>
+    <x>5.965542</x>
+    <y>-5.171597</y>
+</eyePoints>
+<eyePoints>
+    <x>5.965542</x>
+    <y>-5.171597</y>
+</eyePoints>
+<eyePoints>
+    <x>5.936569</x>
+    <y>-5.100145</y>
+</eyePoints>
+<eyePoints>
+    <x>5.936569</x>
+    <y>-5.100145</y>
+</eyePoints>
+<eyePoints>
+    <x>5.936569</x>
+    <y>-5.100145</y>
+</eyePoints>
+<eyePoints>
+    <x>5.910816</x>
+    <y>-5.157993</y>
+</eyePoints>
+<eyePoints>
+    <x>5.910816</x>
+    <y>-5.157993</y>
+</eyePoints>
+<eyePoints>
+    <x>5.965797</x>
+    <y>-5.111675</y>
+</eyePoints>
+<eyePoints>
+    <x>5.965797</x>
+    <y>-5.111675</y>
+</eyePoints>
+<eyePoints>
+    <x>6.003593</x>
+    <y>-5.052103</y>
+</eyePoints>
+<eyePoints>
+    <x>6.003593</x>
+    <y>-5.052103</y>
+</eyePoints>
+<eyePoints>
+    <x>12.390816</x>
+    <y>-6.022842</y>
+</eyePoints>
+<eyePoints>
+    <x>12.390816</x>
+    <y>-6.022842</y>
+</eyePoints>
+<eyePoints>
+    <x>12.624043</x>
+    <y>-6.030334</y>
+</eyePoints>
+<eyePoints>
+    <x>12.624043</x>
+    <y>-6.030334</y>
+</eyePoints>
+<eyePoints>
+    <x>12.636246</x>
+    <y>-6.132299</y>
+</eyePoints>
+<eyePoints>
+    <x>12.636246</x>
+    <y>-6.132299</y>
+</eyePoints>
+<eyePoints>
+    <x>12.580715</x>
+    <y>-6.044109</y>
+</eyePoints>
+<eyePoints>
+    <x>12.580715</x>
+    <y>-6.044109</y>
+</eyePoints>
+<eyePoints>
+    <x>12.437057</x>
+    <y>-6.028610</y>
+</eyePoints>
+<eyePoints>
+    <x>12.437057</x>
+    <y>-6.028610</y>
+</eyePoints>
+<eyePoints>
+    <x>21.780525</x>
+    <y>-6.783348</y>
+</eyePoints>
+<eyePoints>
+    <x>21.780525</x>
+    <y>-6.783348</y>
+</eyePoints>
+<eyePoints>
+    <x>21.784523</x>
+    <y>-6.789467</y>
+</eyePoints>
+<eyePoints>
+    <x>21.784523</x>
+    <y>-6.789467</y>
+</eyePoints>
+<eyePoints>
+    <x>21.625916</x>
+    <y>-6.745022</y>
+</eyePoints>
+<eyePoints>
+    <x>21.625916</x>
+    <y>-6.745022</y>
+</eyePoints>
+<eyePoints>
+    <x>21.742668</x>
+    <y>-6.666157</y>
+</eyePoints>
+<eyePoints>
+    <x>21.742668</x>
+    <y>-6.666157</y>
+</eyePoints>
+<eyePoints>
+    <x>21.774017</x>
+    <y>-6.768353</y>
+</eyePoints>
+<eyePoints>
+    <x>21.774017</x>
+    <y>-6.768353</y>
+</eyePoints>
+<eyePoints>
+    <x>30.682114</x>
+    <y>-6.069027</y>
+</eyePoints>
+<eyePoints>
+    <x>30.682114</x>
+    <y>-6.069027</y>
+</eyePoints>
+<eyePoints>
+    <x>30.678749</x>
+    <y>-5.973297</y>
+</eyePoints>
+<eyePoints>
+    <x>30.678749</x>
+    <y>-5.973297</y>
+</eyePoints>
+<eyePoints>
+    <x>30.611935</x>
+    <y>-6.054554</y>
+</eyePoints>
+<eyePoints>
+    <x>30.611935</x>
+    <y>-6.054554</y>
+</eyePoints>
+<eyePoints>
+    <x>30.601013</x>
+    <y>-6.129658</y>
+</eyePoints>
+<eyePoints>
+    <x>30.601013</x>
+    <y>-6.129658</y>
+</eyePoints>
+<eyePoints>
+    <x>30.672672</x>
+    <y>-6.023773</y>
+</eyePoints>
+<eyePoints>
+    <x>30.672672</x>
+    <y>-6.023773</y>
+</eyePoints>
+<eyePoints>
+    <x>40.987427</x>
+    <y>-5.805183</y>
+</eyePoints>
+<eyePoints>
+    <x>40.987427</x>
+    <y>-5.805183</y>
+</eyePoints>
+<eyePoints>
+    <x>40.948681</x>
+    <y>-5.750980</y>
+</eyePoints>
+<eyePoints>
+    <x>40.948681</x>
+    <y>-5.750980</y>
+</eyePoints>
+<eyePoints>
+    <x>41.042622</x>
+    <y>-5.707249</y>
+</eyePoints>
+<eyePoints>
+    <x>41.042622</x>
+    <y>-5.707249</y>
+</eyePoints>
+<eyePoints>
+    <x>41.002777</x>
+    <y>-5.663139</y>
+</eyePoints>
+<eyePoints>
+    <x>41.002777</x>
+    <y>-5.663139</y>
+</eyePoints>
+<eyePoints>
+    <x>40.904350</x>
+    <y>-5.686104</y>
+</eyePoints>
+<eyePoints>
+    <x>40.904350</x>
+    <y>-5.686104</y>
+</eyePoints>
+<eyePoints>
+    <x>40.982819</x>
+    <y>-5.686836</y>
+</eyePoints>
+<eyePoints>
+    <x>40.982819</x>
+    <y>-5.686836</y>
+</eyePoints>
+<eyePoints>
+    <x>40.982819</x>
+    <y>-5.686836</y>
+</eyePoints>
+<eyePoints>
+    <x>42.106934</x>
+    <y>-11.365925</y>
+</eyePoints>
+<eyePoints>
+    <x>42.106934</x>
+    <y>-11.365925</y>
+</eyePoints>
+<eyePoints>
+    <x>42.123299</x>
+    <y>-11.329662</y>
+</eyePoints>
+<eyePoints>
+    <x>42.123299</x>
+    <y>-11.329662</y>
+</eyePoints>
+<eyePoints>
+    <x>42.016426</x>
+    <y>-11.468357</y>
+</eyePoints>
+<eyePoints>
+    <x>42.016426</x>
+    <y>-11.468357</y>
+</eyePoints>
+<eyePoints>
+    <x>30.389812</x>
+    <y>-11.641247</y>
+</eyePoints>
+<eyePoints>
+    <x>30.389812</x>
+    <y>-11.641247</y>
+</eyePoints>
+<eyePoints>
+    <x>30.386589</x>
+    <y>-11.650295</y>
+</eyePoints>
+<eyePoints>
+    <x>30.386589</x>
+    <y>-11.650295</y>
+</eyePoints>
+<eyePoints>
+    <x>30.456768</x>
+    <y>-11.574146</y>
+</eyePoints>
+<eyePoints>
+    <x>30.456768</x>
+    <y>-11.574146</y>
+</eyePoints>
+<eyePoints>
+    <x>30.432674</x>
+    <y>-11.604809</y>
+</eyePoints>
+<eyePoints>
+    <x>30.432674</x>
+    <y>-11.604809</y>
+</eyePoints>
+<eyePoints>
+    <x>20.374321</x>
+    <y>-11.266047</y>
+</eyePoints>
+<eyePoints>
+    <x>20.374321</x>
+    <y>-11.266047</y>
+</eyePoints>
+<eyePoints>
+    <x>20.578144</x>
+    <y>-11.118244</y>
+</eyePoints>
+<eyePoints>
+    <x>20.578144</x>
+    <y>-11.118244</y>
+</eyePoints>
+<eyePoints>
+    <x>20.554131</x>
+    <y>-11.227715</y>
+</eyePoints>
+<eyePoints>
+    <x>20.554131</x>
+    <y>-11.227715</y>
+</eyePoints>
+<eyePoints>
+    <x>20.625053</x>
+    <y>-11.316833</y>
+</eyePoints>
+<eyePoints>
+    <x>20.625053</x>
+    <y>-11.316833</y>
+</eyePoints>
+<eyePoints>
+    <x>20.509552</x>
+    <y>-11.426996</y>
+</eyePoints>
+<eyePoints>
+    <x>20.509552</x>
+    <y>-11.426996</y>
+</eyePoints>
+<eyePoints>
+    <x>20.589088</x>
+    <y>-11.299698</y>
+</eyePoints>
+<eyePoints>
+    <x>20.589088</x>
+    <y>-11.299698</y>
+</eyePoints>
+<eyePoints>
+    <x>11.268940</x>
+    <y>-10.932238</y>
+</eyePoints>
+<eyePoints>
+    <x>11.268940</x>
+    <y>-10.932238</y>
+</eyePoints>
+<eyePoints>
+    <x>11.462044</x>
+    <y>-10.884542</y>
+</eyePoints>
+<eyePoints>
+    <x>11.462044</x>
+    <y>-10.884542</y>
+</eyePoints>
+<eyePoints>
+    <x>11.571022</x>
+    <y>-10.803396</y>
+</eyePoints>
+<eyePoints>
+    <x>11.571022</x>
+    <y>-10.803396</y>
+</eyePoints>
+<eyePoints>
+    <x>11.766792</x>
+    <y>-11.023930</y>
+</eyePoints>
+<eyePoints>
+    <x>11.766792</x>
+    <y>-11.023930</y>
+</eyePoints>
+<eyePoints>
+    <x>11.896397</x>
+    <y>-10.924725</y>
+</eyePoints>
+<eyePoints>
+    <x>11.896397</x>
+    <y>-10.924725</y>
+</eyePoints>
+<eyePoints>
+    <x>3.016117</x>
+    <y>-10.699919</y>
+</eyePoints>
+<eyePoints>
+    <x>3.016117</x>
+    <y>-10.699919</y>
+</eyePoints>
+<eyePoints>
+    <x>3.027504</x>
+    <y>-10.745436</y>
+</eyePoints>
+<eyePoints>
+    <x>3.027504</x>
+    <y>-10.745436</y>
+</eyePoints>
+<eyePoints>
+    <x>3.027504</x>
+    <y>-10.745436</y>
+</eyePoints>
+<eyePoints>
+    <x>3.232040</x>
+    <y>-10.629978</y>
+</eyePoints>
+<eyePoints>
+    <x>3.232040</x>
+    <y>-10.629978</y>
+</eyePoints>
+<eyePoints>
+    <x>3.182152</x>
+    <y>-10.697060</y>
+</eyePoints>
+<eyePoints>
+    <x>3.182152</x>
+    <y>-10.697060</y>
+</eyePoints>
+<eyePoints>
+    <x>3.206886</x>
+    <y>-10.646694</y>
+</eyePoints>
+<eyePoints>
+    <x>3.206886</x>
+    <y>-10.646694</y>
+</eyePoints>
+<eyePoints>
+    <x>3.271843</x>
+    <y>-10.694439</y>
+</eyePoints>
+<eyePoints>
+    <x>3.271843</x>
+    <y>-10.694439</y>
+</eyePoints>
+<eyePoints>
+    <x>2.564655</x>
+    <y>-15.455444</y>
+</eyePoints>
+<eyePoints>
+    <x>2.699547</x>
+    <y>-15.365891</y>
+</eyePoints>
+<eyePoints>
+    <x>2.699547</x>
+    <y>-15.365891</y>
+</eyePoints>
+<eyePoints>
+    <x>2.627888</x>
+    <y>-15.351219</y>
+</eyePoints>
+<eyePoints>
+    <x>2.627888</x>
+    <y>-15.351219</y>
+</eyePoints>
+<eyePoints>
+    <x>2.588169</x>
+    <y>-15.353477</y>
+</eyePoints>
+<eyePoints>
+    <x>2.588169</x>
+    <y>-15.353477</y>
+</eyePoints>
+<eyePoints>
+    <x>2.712250</x>
+    <y>-15.242935</y>
+</eyePoints>
+<eyePoints>
+    <x>2.712250</x>
+    <y>-15.242935</y>
+</eyePoints>
+<eyePoints>
+    <x>2.239677</x>
+    <y>-15.396328</y>
+</eyePoints>
+<eyePoints>
+    <x>2.239677</x>
+    <y>-15.396328</y>
+</eyePoints>
+<eyePoints>
+    <x>2.239677</x>
+    <y>-15.396328</y>
+</eyePoints>
+<eyePoints>
+    <x>2.261253</x>
+    <y>-15.346069</y>
+</eyePoints>
+<eyePoints>
+    <x>12.165718</x>
+    <y>-15.876293</y>
+</eyePoints>
+<eyePoints>
+    <x>12.165718</x>
+    <y>-15.876293</y>
+</eyePoints>
+<eyePoints>
+    <x>12.279411</x>
+    <y>-15.804913</y>
+</eyePoints>
+<eyePoints>
+    <x>12.279411</x>
+    <y>-15.804913</y>
+</eyePoints>
+<eyePoints>
+    <x>12.138512</x>
+    <y>-15.693268</y>
+</eyePoints>
+<eyePoints>
+    <x>12.138512</x>
+    <y>-15.693268</y>
+</eyePoints>
+<eyePoints>
+    <x>12.024597</x>
+    <y>-15.657917</y>
+</eyePoints>
+<eyePoints>
+    <x>12.024597</x>
+    <y>-15.657917</y>
+</eyePoints>
+<eyePoints>
+    <x>20.226124</x>
+    <y>-15.516870</y>
+</eyePoints>
+<eyePoints>
+    <x>20.226124</x>
+    <y>-15.516870</y>
+</eyePoints>
+<eyePoints>
+    <x>20.314854</x>
+    <y>-15.436857</y>
+</eyePoints>
+<eyePoints>
+    <x>20.314854</x>
+    <y>-15.436857</y>
+</eyePoints>
+<eyePoints>
+    <x>20.066597</x>
+    <y>-15.534563</y>
+</eyePoints>
+<eyePoints>
+    <x>20.066597</x>
+    <y>-15.534563</y>
+</eyePoints>
+<eyePoints>
+    <x>20.206291</x>
+    <y>-15.422369</y>
+</eyePoints>
+<eyePoints>
+    <x>20.206291</x>
+    <y>-15.422369</y>
+</eyePoints>
+<eyePoints>
+    <x>29.121479</x>
+    <y>-16.355427</y>
+</eyePoints>
+<eyePoints>
+    <x>29.121479</x>
+    <y>-16.355427</y>
+</eyePoints>
+<eyePoints>
+    <x>29.266399</x>
+    <y>-16.152159</y>
+</eyePoints>
+<eyePoints>
+    <x>29.266399</x>
+    <y>-16.152159</y>
+</eyePoints>
+<eyePoints>
+    <x>28.996437</x>
+    <y>-16.202011</y>
+</eyePoints>
+<eyePoints>
+    <x>28.996437</x>
+    <y>-16.202011</y>
+</eyePoints>
+<eyePoints>
+    <x>28.996437</x>
+    <y>-16.202011</y>
+</eyePoints>
+<eyePoints>
+    <x>41.253105</x>
+    <y>-16.824623</y>
+</eyePoints>
+<eyePoints>
+    <x>41.278648</x>
+    <y>-16.673077</y>
+</eyePoints>
+<eyePoints>
+    <x>41.278648</x>
+    <y>-16.673077</y>
+</eyePoints>
+<eyePoints>
+    <x>41.114456</x>
+    <y>-16.825066</y>
+</eyePoints>
+<eyePoints>
+    <x>41.114456</x>
+    <y>-16.825066</y>
+</eyePoints>
+<eyePoints>
+    <x>41.189102</x>
+    <y>-16.617661</y>
+</eyePoints>
+<eyePoints>
+    <x>41.189102</x>
+    <y>-16.617661</y>
+</eyePoints>
+<eyePoints>
+    <x>41.189102</x>
+    <y>-16.617661</y>
+</eyePoints>
+<eyePoints>
+    <x>40.899071</x>
+    <y>-16.686714</y>
+</eyePoints>
+<eyePoints>
+    <x>40.899071</x>
+    <y>-16.686714</y>
+</eyePoints>
+<eyePoints>
+    <x>42.091774</x>
+    <y>-22.748623</y>
+</eyePoints>
+<eyePoints>
+    <x>42.091774</x>
+    <y>-22.748623</y>
+</eyePoints>
+<eyePoints>
+    <x>42.091774</x>
+    <y>-22.748623</y>
+</eyePoints>
+<eyePoints>
+    <x>42.062759</x>
+    <y>-22.792061</y>
+</eyePoints>
+<eyePoints>
+    <x>42.062759</x>
+    <y>-22.792061</y>
+</eyePoints>
+<eyePoints>
+    <x>42.086746</x>
+    <y>-22.791344</y>
+</eyePoints>
+<eyePoints>
+    <x>42.086746</x>
+    <y>-22.791344</y>
+</eyePoints>
+<eyePoints>
+    <x>29.492931</x>
+    <y>-21.095581</y>
+</eyePoints>
+<eyePoints>
+    <x>29.492931</x>
+    <y>-21.095581</y>
+</eyePoints>
+<eyePoints>
+    <x>29.572701</x>
+    <y>-21.002655</y>
+</eyePoints>
+<eyePoints>
+    <x>29.572701</x>
+    <y>-21.002655</y>
+</eyePoints>
+<eyePoints>
+    <x>29.455761</x>
+    <y>-21.127937</y>
+</eyePoints>
+<eyePoints>
+    <x>29.455761</x>
+    <y>-21.127937</y>
+</eyePoints>
+<eyePoints>
+    <x>29.133369</x>
+    <y>-20.937416</y>
+</eyePoints>
+<eyePoints>
+    <x>29.133369</x>
+    <y>-20.937416</y>
+</eyePoints>
+<eyePoints>
+    <x>29.283287</x>
+    <y>-20.938251</y>
+</eyePoints>
+<eyePoints>
+    <x>29.283287</x>
+    <y>-20.938251</y>
+</eyePoints>
+<eyePoints>
+    <x>20.009399</x>
+    <y>-20.275135</y>
+</eyePoints>
+<eyePoints>
+    <x>20.009399</x>
+    <y>-20.275135</y>
+</eyePoints>
+<eyePoints>
+    <x>20.179417</x>
+    <y>-20.136799</y>
+</eyePoints>
+<eyePoints>
+    <x>20.179417</x>
+    <y>-20.136799</y>
+</eyePoints>
+<eyePoints>
+    <x>19.923809</x>
+    <y>-20.050533</y>
+</eyePoints>
+<eyePoints>
+    <x>19.923809</x>
+    <y>-20.050533</y>
+</eyePoints>
+<eyePoints>
+    <x>20.226555</x>
+    <y>-20.081944</y>
+</eyePoints>
+<eyePoints>
+    <x>20.226555</x>
+    <y>-20.081944</y>
+</eyePoints>
+<eyePoints>
+    <x>20.123745</x>
+    <y>-20.064402</y>
+</eyePoints>
+<eyePoints>
+    <x>20.123745</x>
+    <y>-20.064402</y>
+</eyePoints>
+<eyePoints>
+    <x>20.087727</x>
+    <y>-20.091053</y>
+</eyePoints>
+<eyePoints>
+    <x>20.087727</x>
+    <y>-20.091053</y>
+</eyePoints>
+<eyePoints>
+    <x>11.744389</x>
+    <y>-19.210876</y>
+</eyePoints>
+<eyePoints>
+    <x>11.744389</x>
+    <y>-19.210876</y>
+</eyePoints>
+<eyePoints>
+    <x>11.744389</x>
+    <y>-19.210876</y>
+</eyePoints>
+<eyePoints>
+    <x>11.832348</x>
+    <y>-19.103298</y>
+</eyePoints>
+<eyePoints>
+    <x>11.832348</x>
+    <y>-19.103298</y>
+</eyePoints>
+<eyePoints>
+    <x>11.904217</x>
+    <y>-19.153072</y>
+</eyePoints>
+<eyePoints>
+    <x>11.904217</x>
+    <y>-19.153072</y>
+</eyePoints>
+<eyePoints>
+    <x>11.701183</x>
+    <y>-19.165443</y>
+</eyePoints>
+<eyePoints>
+    <x>11.701183</x>
+    <y>-19.165443</y>
+</eyePoints>
+<eyePoints>
+    <x>11.785351</x>
+    <y>-19.117569</y>
+</eyePoints>
+<eyePoints>
+    <x>11.785351</x>
+    <y>-19.117569</y>
+</eyePoints>
+<eyePoints>
+    <x>11.752098</x>
+    <y>-19.015347</y>
+</eyePoints>
+<eyePoints>
+    <x>11.752098</x>
+    <y>-19.015347</y>
+</eyePoints>
+<eyePoints>
+    <x>2.197472</x>
+    <y>-18.595413</y>
+</eyePoints>
+<eyePoints>
+    <x>2.197472</x>
+    <y>-18.595413</y>
+</eyePoints>
+<eyePoints>
+    <x>2.155258</x>
+    <y>-18.571739</y>
+</eyePoints>
+<eyePoints>
+    <x>2.155258</x>
+    <y>-18.571739</y>
+</eyePoints>
+<nScreenRefPoints>244</nScreenRefPoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>702.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>531.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>360.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>189.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>32.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>336.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>640.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>944.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>18.000000</y>
+</screenpoints>
+<screenpoints>
+    <x>1248.000000</x>
+    <y>18.000000</y>
+</screenpoints>

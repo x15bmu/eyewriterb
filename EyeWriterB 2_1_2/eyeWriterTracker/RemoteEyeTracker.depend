@@ -1,0 +1,4489 @@
+# depslib dependency file v1.0
+1265453355 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxdirlist\src\ofxdirlist.cpp
+	"ofxDirList.h"
+	<algorithm>
+	<string>
+
+1265453355 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxdirlist\src\ofxdirlist.h
+	"ofMain.h"
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<dirent.h>
+	<windows.h>
+	<tchar.h>
+	<string.h>
+	<assert.h>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\ofmain.h
+	"ofConstants.h"
+	"ofMath.h"
+	"ofUtils.h"
+	"ofTypes.h"
+	"ofSerial.h"
+	"ofArduino.h"
+	"ofTexture.h"
+	"ofTrueTypeFont.h"
+	"ofGraphics.h"
+	"ofImage.h"
+	"ofBaseApp.h"
+	"ofAppRunner.h"
+	"ofSoundStream.h"
+	"ofSoundPlayer.h"
+	"ofVideoGrabber.h"
+	"ofVideoPlayer.h"
+	"ofEvents.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\utils\ofconstants.h
+	<TargetConditionals.h>
+	<windows.h>
+	"GLee.h"
+	"glu.h"
+	<unistd.h>
+	"GLee.h"
+	<OpenGL/glu.h>
+	<ApplicationServices/ApplicationServices.h>
+	<unistd.h>
+	"GLee.h"
+	<GL/glu.h>
+	<stdio.h>
+	<stdarg.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<iomanip>
+
+1265453362 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\glee\include\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1265453362 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\glu\include\glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\utils\ofmath.h
+	"ofConstants.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\utils\ofutils.h
+	"ofConstants.h"
+	<shellapi.h>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\utils\oftypes.h
+	"ofConstants.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\communication\ofserial.h
+	"ofConstants.h"
+	<termios.h>
+	<sys/ioctl.h>
+	<getopt.h>
+	<dirent.h>
+	<winbase.h>
+	<tchar.h>
+	<iostream>
+	<string.h>
+	<setupapi.h>
+	<regstr.h>
+	<winioctl.h>
+	<initguid.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+	<errno.h>
+	<ctype.h>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\communication\ofarduino.h
+	<list>
+	<vector>
+	<string>
+	<iostream>
+	"ofEvents.h"
+	"ofSerial.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\events\ofevents.h
+	"ofConstants.h"
+	"ofEventUtils.h"
+	"ofxEventUtils.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\events\ofeventutils.h
+	"ofConstants.h"
+	"Poco/FIFOEvent.h"
+	"Poco/Delegate.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\fifoevent.h
+	"Poco/AbstractEvent.h"
+	"Poco/FIFOStrategy.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/CompareFunctions.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\abstractevent.h
+	"Poco/Foundation.h"
+	"Poco/SingletonHolder.h"
+	"Poco/SharedPtr.h"
+	"Poco/ActiveResult.h"
+	"Poco/ActiveMethod.h"
+	"Poco/Mutex.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\foundation.h
+	"Poco/Config.h"
+	"Poco/Platform.h"
+	"Poco/Platform_WIN32.h"
+	"Poco/Platform_VMS.h"
+	"Poco/Platform_POSIX.h"
+	"Poco/Bugcheck.h"
+	"Poco/Types.h"
+	<string>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\config.h
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\platform.h
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\platform_win32.h
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\platform_vms.h
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\platform_posix.h
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\bugcheck.h
+	"Poco/Foundation.h"
+	<string>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\types.h
+	"Poco/Foundation.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\singletonholder.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\mutex.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/ScopedLock.h"
+	"Poco/Mutex_WIN32.h"
+	"Poco/Mutex_POSIX.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\exception.h
+	"Poco/Foundation.h"
+	<stdexcept>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\scopedlock.h
+	"Poco/Foundation.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\mutex_win32.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\unwindows.h
+	<windows.h>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\mutex_posix.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<pthread.h>
+	<errno.h>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\sharedptr.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/Mutex.h"
+	<algorithm>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\activeresult.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/Exception.h"
+	<algorithm>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\event.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/Event_WIN32.h"
+	"Poco/Event_POSIX.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\event_win32.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\event_posix.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<pthread.h>
+	<errno.h>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\refcountedobject.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\activemethod.h
+	"Poco/Foundation.h"
+	"Poco/ActiveResult.h"
+	"Poco/ActiveRunnable.h"
+	"Poco/ActiveStarter.h"
+	"Poco/AutoPtr.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\activerunnable.h
+	"Poco/Foundation.h"
+	"Poco/ActiveResult.h"
+	"Poco/Runnable.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	"Poco/Exception.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\runnable.h
+	"Poco/Foundation.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\autoptr.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<algorithm>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\activestarter.h
+	"Poco/Foundation.h"
+	"Poco/ThreadPool.h"
+	"Poco/ActiveRunnable.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\threadpool.h
+	"Poco/Foundation.h"
+	"Poco/Thread.h"
+	"Poco/Mutex.h"
+	<vector>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\thread.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/Thread_WIN32.h"
+	"Poco/Thread_POSIX.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\thread_win32.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/UnWindows.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\thread_posix.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/SignalHandler.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	<pthread.h>
+	<sys/select.h>
+	<errno.h>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\signalhandler.h
+	"Poco/Foundation.h"
+	<vector>
+	<setjmp.h>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\fifostrategy.h
+	"Poco/NotificationStrategy.h"
+	<map>
+	<list>
+	<memory>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\notificationstrategy.h
+	"Poco/Foundation.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\abstractdelegate.h
+	"Poco/Foundation.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\comparefunctions.h
+	"Poco/Foundation.h"
+	<functional>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\delegate.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/FunctionDelegate.h"
+	"Poco/Expire.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\functiondelegate.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\expire.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/Timestamp.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\timestamp.h
+	"Poco/Foundation.h"
+	<ctime>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\graphics\oftexture.h
+	"ofConstants.h"
+	"ofGraphics.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\graphics\ofgraphics.h
+	"ofConstants.h"
+	"ofTypes.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\graphics\oftruetypefont.h
+	"ofConstants.h"
+	"ofGraphics.h"
+	"ofUtils.h"
+	"ofTypes.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\graphics\ofimage.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofGraphics.h"
+	"ofAppRunner.h"
+	"FreeImage.h"
+	"ofUtils.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\app\ofapprunner.h
+	"ofMain.h"
+	"ofBaseApp.h"
+	"ofAppBaseWindow.h"
+	"ofAppGlutWindow.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\app\ofbaseapp.h
+	"ofTypes.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\app\ofappbasewindow.h
+	"ofTypes.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\app\ofappglutwindow.h
+	"ofConstants.h"
+	"ofAppBaseWindow.h"
+	"glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\glut\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1265453359 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\freeimage\include\freeimage.h
+	<wchar.h>
+	<inttypes.h>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\sound\ofsoundstream.h
+	"ofConstants.h"
+	"ofBaseApp.h"
+	"ofEvents.h"
+	"ofMath.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\sound\ofsoundplayer.h
+	"ofConstants.h"
+	"fmod.h"
+	"fmod_errors.h"
+
+1265453361 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\fmodex\include\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_memoryinfo.h"
+
+1265453361 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\fmodex\include\fmod_codec.h
+
+1265453361 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\fmodex\include\fmod_dsp.h
+
+1265453361 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\fmodex\include\fmod_memoryinfo.h
+
+1265453361 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\fmodex\include\fmod_errors.h
+	"fmod.h"
+
+1326676499 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\video\ofvideograbber.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofGraphics.h"
+	"ofTypes.h"
+	"ofQtUtils.h"
+	"videoInput.h"
+	"ofUCUtils.h"
+	"ofGstUtils.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\video\ofqtutils.h
+	"ofConstants.h"
+	"ofGraphics.h"
+	<QuickTime/QuickTime.h>
+	<CoreServices/CoreServices.h>
+	<ApplicationServices/ApplicationServices.h>
+	<QTML.h>
+	<FixMath.h>
+	<QuickTimeComponents.h>
+	<TextUtils.h>
+	<MediaHandlers.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\qtml.h
+	<MacTypes.h>
+	<MacMemory.h>
+	<MacWindows.h>
+	<OSUtils.h>
+	<Files.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\mactypes.h
+	<ConditionalMacros.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\conditionalmacros.h
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\macmemory.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\mixedmode.h
+	<MacTypes.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\macwindows.h
+	<MacTypes.h>
+	<Aliases.h>
+	<AppleEvents.h>
+	<Collections.h>
+	<Drag.h>
+	<Events.h>
+	<Menus.h>
+	<MixedMode.h>
+	<QDOffscreen.h>
+	<Quickdraw.h>
+	<TextCommon.h>
+	<Icons.h>
+	<MacErrors.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\aliases.h
+	<MacTypes.h>
+	<AppleTalk.h>
+	<Files.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\appletalk.h
+	<MacTypes.h>
+	<OSUtils.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\osutils.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<MacMemory.h>
+	<Patches.h>
+	<DateTimeUtils.h>
+	<Endian.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\patches.h
+	<MacTypes.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\datetimeutils.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\endian.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\files.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<OSUtils.h>
+	<TextCommon.h>
+	<UTCUtils.h>
+	<Finder.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\textcommon.h
+	<MacTypes.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\utcutils.h
+	<MacTypes.h>
+	<MacErrors.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\macerrors.h
+	<ConditionalMacros.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\finder.h
+	<MacTypes.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\appleevents.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Notification.h>
+	<Events.h>
+	<AEDataModel.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\notification.h
+	<MacTypes.h>
+	<OSUtils.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\events.h
+	<OSUtils.h>
+	<Quickdraw.h>
+	<MacTypes.h>
+	<Endian.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\quickdraw.h
+	<Components.h>
+	<MacTypes.h>
+	<MixedMode.h>
+	<QuickdrawText.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\components.h
+	<MacErrors.h>
+	<MacTypes.h>
+	<MixedMode.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\quickdrawtext.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\aedatamodel.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\collections.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\drag.h
+	<MacTypes.h>
+	<Events.h>
+	<Files.h>
+	<AppleEvents.h>
+	<Quickdraw.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\menus.h
+	<MacTypes.h>
+	<Events.h>
+	<Quickdraw.h>
+	<Fonts.h>
+	<TextCommon.h>
+	<Processes.h>
+	<AppleEvents.h>
+	<Collections.h>
+	<MacErrors.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\fonts.h
+	<MacTypes.h>
+	<Files.h>
+	<Quickdraw.h>
+	<TextCommon.h>
+	<MacErrors.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\processes.h
+	<MacTypes.h>
+	<Events.h>
+	<Files.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\qdoffscreen.h
+	<MacErrors.h>
+	<Quickdraw.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\icons.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<Files.h>
+	<CodeFragments.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\codefragments.h
+	<MacTypes.h>
+	<Files.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\fixmath.h
+	<MacTypes.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\quicktimecomponents.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Components.h>
+	<ImageCompression.h>
+	<Movies.h>
+	<Quickdraw.h>
+	<Video.h>
+	<Sound.h>
+	<QuickTimeMusic.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\imagecompression.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<QDOffscreen.h>
+	<Components.h>
+	<StandardFile.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\standardfile.h
+	<MacTypes.h>
+	<Dialogs.h>
+	<Files.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\dialogs.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Events.h>
+	<MacWindows.h>
+	<TextEdit.h>
+	<Controls.h>
+	<MacErrors.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\textedit.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<MixedMode.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\controls.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<Menus.h>
+	<TextEdit.h>
+	<Drag.h>
+	<Icons.h>
+	<Collections.h>
+	<MacErrors.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\movies.h
+	<Quickdraw.h>
+	<Aliases.h>
+	<Events.h>
+	<Menus.h>
+	<Components.h>
+	<ImageCompression.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\video.h
+	<Quickdraw.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\sound.h
+	<MacTypes.h>
+	<Dialogs.h>
+	<Components.h>
+	<MixedMode.h>
+	<Movies.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\quicktimemusic.h
+	<Components.h>
+	<ImageCompression.h>
+	<Movies.h>
+	<Quickdraw.h>
+	<Video.h>
+	<MacMemory.h>
+	<Sound.h>
+	<Endian.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\textutils.h
+	<MacTypes.h>
+	<NumberFormatting.h>
+	<StringCompare.h>
+	<DateTimeUtils.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\numberformatting.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+	<IntlResources.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\intlresources.h
+	<MacTypes.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\stringcompare.h
+	<MacTypes.h>
+	<TextCommon.h>
+	<Script.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\script.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<IntlResources.h>
+	<Events.h>
+
+1265453373 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\quicktime\include\mediahandlers.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+	<Components.h>
+	<Movies.h>
+	<Sound.h>
+
+1265453374 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\videoinput\include\videoinput.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<wchar.h>
+	<windows.h>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\video\ofucutils.h
+	"ofConstants.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<unicap.h>
+	<unistd.h>
+	<string.h>
+	<pthread.h>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\video\ofgstutils.h
+	<gst/gst.h>
+	<pthread.h>
+	"ofConstants.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\openframeworks\video\ofvideoplayer.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofGstUtils.h"
+	"ofQtUtils.h"
+
+1265453358 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxthread\src\ofxthread.cpp
+	"ofxThread.h"
+
+1265453358 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxthread\src\ofxthread.h
+	"ofConstants.h"
+	<process.h>
+	<pthread.h>
+	<semaphore.h>
+
+1265453358 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxxmlsettings\libs\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1265453358 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxxmlsettings\libs\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1265453358 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxxmlsettings\libs\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1265453358 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxxmlsettings\libs\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1265453358 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxxmlsettings\src\ofxxmlsettings.cpp
+	"ofxXmlSettings.h"
+	<vector>
+	<string>
+	<iostream>
+
+1265453358 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxxmlsettings\src\ofxxmlsettings.h
+	"ofMain.h"
+	<string.h>
+	"tinyxml.h"
+
+1337140991 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\cleye\cleye.cpp
+	"cleye.h"
+
+1337140426 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\cleye\cleye.h
+	"CLEyeMulticam.h"
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1328887266 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\cleye\cleyemulticam.h
+	<windows.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxopencv.h
+	"ofxCvConstants.h"
+	"ofxCvImage.h"
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+	"ofxCvContourFinder.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvconstants.h
+	"cv.h"
+	<vector>
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cv.h
+	<chdl.h>
+	"cxcore.h"
+	"cvtypes.h"
+	"cv.hpp"
+	"cvcompat.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cxcore.h
+	"ipl.h"
+	"ipl/ipl.h"
+	"cxtypes.h"
+	"cxerror.h"
+	"cvver.h"
+	"cxcore.hpp"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cxtypes.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<mathimf.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cxerror.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cvver.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cxcore.hpp
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cvtypes.h
+	<assert.h>
+	<stdlib.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cv.hpp
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cvcompat.h
+	<string.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvimage.h
+	"ofxCvConstants.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvgrayscaleimage.h
+	"ofxCvImage.h"
+	"ofxCvBlob.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvblob.h
+	"ofxCvConstants.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvcolorimage.h
+	"ofxCvImage.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvfloatimage.h
+	"ofxCvImage.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvshortimage.h
+	"ofxCvImage.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvcontourfinder.h
+	"ofxCvConstants.h"
+	"ofxCvBlob.h"
+	"ofxCvGrayscaleImage.h"
+	<algorithm>
+
+1326308031 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\presage\textprediction.cpp
+	"textPrediction.h"
+	"presage.h"
+	<iostream>
+
+1326308037 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\presage\textprediction.h
+	"presage.h"
+	<string>
+	<vector>
+
+1293133409 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\presage\presage.h
+	"presageException.h"
+	"presageCallback.h"
+	<string>
+	<vector>
+	<map>
+
+1292941899 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\presage\presageexception.h
+	<exception>
+	<string>
+
+1292709528 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\presage\presagecallback.h
+	<string>
+	<sstream>
+
+1333221635 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\glintfinder\glintfinder.cpp
+	"glintFinder.h"
+
+1332914114 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\glintfinder\glintfinder.h
+	"ofMain.h"
+	"ofxCvGrayscaleAdvanced.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+	"glintLineChecker.h"
+	"glintRefChecker.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcvgrayscaleadvanced\ofxcvgrayscaleadvanced.h
+	"ofxCvGrayscaleImage.h"
+
+1265453358 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxvectormath\src\ofxvectormath.h
+	"ofxVec2f.h"
+	"ofxVec3f.h"
+	"ofxVec4f.h"
+	"ofxMatrix3x3.h"
+	"ofxMatrix4x4.h"
+	"ofxQuaternion.h"
+
+1265453358 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxvectormath\src\ofxvec2f.h
+	"ofConstants.h"
+	"ofTypes.h"
+
+1265453358 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxvectormath\src\ofxvec3f.h
+	"ofConstants.h"
+	"ofTypes.h"
+
+1265453358 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxvectormath\src\ofxvec4f.h
+	"ofConstants.h"
+	"ofTypes.h"
+
+1265453358 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxvectormath\src\ofxmatrix3x3.h
+
+1265453358 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxvectormath\src\ofxmatrix4x4.h
+	"ofxVec3f.h"
+	"ofxVec4f.h"
+	"ofxQuaternion.h"
+	<cmath>
+
+1265453358 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxvectormath\src\ofxquaternion.h
+	"ofxVec3f.h"
+	"ofxVec4f.h"
+	<cmath>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\glintfinder\glintlinechecker.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\glintfinder\glintrefchecker.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1333221913 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\glintfinder\glintlinechecker.cpp
+	"glintLineChecker.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\glintfinder\glintrefchecker.cpp
+	"glintRefChecker.h"
+
+1337141094 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\inputmanager\inputmanager.cpp
+	"inputManager.h"
+
+1328888699 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\inputmanager\inputmanager.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"ofxOpenCv.h"
+	"qtVideoGrabber.h"
+	"threadedImgSaver.h"
+	"ofxFileHelper.h"
+	"fireflyVideoGrabber.h"
+	"clVideoGrabber.h"
+
+1328326847 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\inputmanager\threadedgrabber\qtvideograbber.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"baseVideoGrabber.h"
+	"threadedQtVideoGrabber.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\inputmanager\threadedgrabber\basevideograbber.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\inputmanager\threadedgrabber\threadedqtvideograbber.h
+	"ofVideoGrabber.h"
+	"ofxOpenCv.h"
+	"ofxThread.h"
+	"ofEvents.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\inputmanager\threadedimgsaver.h
+	"ofMain.h"
+	"ofxThread.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxfilehelper\ofxfilehelper.h
+	"ofMain.h"
+	"Poco/Util/FilesystemConfiguration.h"
+	"Poco/File.h"
+	"Poco/Path.h"
+	"Poco/DirectoryIterator.h"
+	"Poco/StringTokenizer.h"
+	"Poco/Exception.h"
+	"Poco/FileStream.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\util\filesystemconfiguration.h
+	"Poco/Util/Util.h"
+	"Poco/Util/AbstractConfiguration.h"
+	"Poco/Path.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\util\util.h
+	"Poco/Foundation.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\util\abstractconfiguration.h
+	"Poco/Util/Util.h"
+	"Poco/Mutex.h"
+	"Poco/RefCountedObject.h"
+	<vector>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\path.h
+	"Poco/Foundation.h"
+	<vector>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\file.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+	<vector>
+	"Poco/File_WIN32U.h"
+	"Poco/File_WIN32.h"
+	"Poco/File_UNIX.h"
+	"Poco/File_VMS.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\file_win32u.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\file_win32.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\file_unix.h
+	"Poco/Foundation.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\file_vms.h
+	"Poco/Foundation.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\directoryiterator.h
+	"Poco/Foundation.h"
+	"Poco/File.h"
+	"Poco/Path.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\stringtokenizer.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<vector>
+	<cstddef>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\filestream.h
+	"Poco/Foundation.h"
+	"FileStream_WIN32.h"
+	"FileStream_POSIX.h"
+	<istream>
+	<ostream>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\filestream_win32.h
+	"Poco/Foundation.h"
+	"Poco/BufferedBidirectionalStreamBuf.h"
+	"Poco/UnWindows.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\bufferedbidirectionalstreambuf.h
+	"Poco/Foundation.h"
+	"Poco/BufferAllocator.h"
+	"Poco/StreamUtil.h"
+	<streambuf>
+	<iosfwd>
+	<ios>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\bufferallocator.h
+	"Poco/Foundation.h"
+	<ios>
+	<cstddef>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\streamutil.h
+	"Poco/Foundation.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\filestream_posix.h
+	"Poco/Foundation.h"
+	"Poco/BufferedBidirectionalStreamBuf.h"
+	<istream>
+	<ostream>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\inputmanager\threadedgrabber\fireflyvideograbber.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"baseVideoGrabber.h"
+	"threadedPtGreyGrabber.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\inputmanager\threadedgrabber\threadedptgreygrabber.h
+	"ofxLibdcPtGrey.h"
+	"ofxOpenCv.h"
+	"ofxThread.h"
+	"ofEvents.h"
+
+1337140730 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\cleye\clvideograbber.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"baseVideoGrabber.h"
+	"threadedClVideoGrabber.h"
+
+1329031770 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\cleye\threadedclvideograbber.h
+	"clEye.h"
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"ofxThread.h"
+	"ofEvents.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\pupilfinder\ellipsefit\ellipsecalcurator.cpp
+	"EllipseCalcurator.h"
+	"FitEllipse.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\pupilfinder\ellipsefit\ellipsecalcurator.h
+	"ofMain.h"
+	"FitEllipse.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\pupilfinder\ellipsefit\fitellipse.h
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\pupilfinder\ellipsefit\fitellipse.cpp
+	<math.h>
+	<assert.h>
+	<stdio.h>
+	"FitEllipse.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\pupilfinder\blobresampler.cpp
+	"blobResampler.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\pupilfinder\blobresampler.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1331157173 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\pupilfinder\pupilfinder.cpp
+	"pupilFinder.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\pupilfinder\pupilfinder.h
+	"ofMain.h"
+	"ofxCvGrayscaleAdvanced.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+	"EllipseCalcurator.h"
+	"eyeFinder.h"
+	"blobResampler.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\eyefinder.h
+	"ofMain.h"
+	"ofxCvGrayscaleAdvanced.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+
+1330974831 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\brightdarkfinder.cpp
+	"brightDarkFinder.h"
+
+1330897408 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\brightdarkfinder.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"ofxCvGrayscaleAdvanced.h"
+
+1331344641 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\eyefinder.cpp
+	"eyeFinder.h"
+
+1332912433 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\eyetracker.cpp
+	"eyeTracker.h"
+
+1331345767 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\eyetracker.h
+	"ofMain.h"
+	"ofxCvGrayscaleAdvanced.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+	"eyeFinder.h"
+	"pupilFinder.h"
+	"glintFinder.h"
+	"EllipseCalcurator.h"
+	"homographyCalcurator.h"
+	"brightDarkFinder.h"
+	"thresholdCalculator.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\homographycalcurator.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"glintFinder.h"
+	"ofxCvGrayscaleAdvanced.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\thresholdcalculator.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"ofxCvGrayscaleAdvanced.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\homographycalcurator.cpp
+	"homographyCalcurator.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\thresholdcalculator.cpp
+	"thresholdCalculator.h"
+
+1330976237 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\trackingmanager.cpp
+	"trackingManager.h"
+
+1329106211 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\trackingmanager.h
+	"ofMain.h"
+	"eyeTracker.h"
+	"ofxControlPanel.h"
+	"inputManager.h"
+	"threadedImgSaver.h"
+	"ofxFileHelper.h"
+	"ofxXmlSettings.h"
+	"ofxDirList.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\ofxcontrolpanel.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"guiIncludes.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guiincludes.h
+	"guiValue.h"
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiVariablePointer.h"
+	"guiTypePanel.h"
+	"guiTypeText.h"
+	"guiTypeToggle.h"
+	"guiTypeMultiToggle.h"
+	"guiTypeSlider.h"
+	"guiType2DSlider.h"
+	"guiTypeDrawable.h"
+	"guiTypeButtonSlider.h"
+	"guiTypeTextDropDown.h"
+	"guiTypeCustom.h"
+	"guiCustomImpl.h"
+	"guiTypeVideo.h"
+	"guiTypeVairableLister.h"
+	"guiTypeChartPlotter.h"
+	"guiTypeLogger.h"
+	"guiTypeFileLister.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guivalue.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guibaseobject.h
+	"simpleColor.h"
+	"guiColor.h"
+	"guiValue.h"
+	"guiTextBase.h"
+	"guiCallback.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\simplecolor.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guicolor.h
+	"simpleColor.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitextbase.h
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guicallback.h
+	"ofMain.h"
+	"guiCallbackValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guicallbackvalue.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guivariablepointer.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypepanel.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypetext.h
+	"guiBaseObject.h"
+	"guiTypeText.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypetoggle.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypemultitoggle.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypeslider.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitype2dslider.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypedrawable.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypebuttonslider.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiTypeToggle.h"
+	"guiTypeSlider.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypetextdropdown.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypecustom.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiCustomImpl.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guicustomimpl.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypevideo.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiTypeDrawable.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypevairablelister.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiVariablePointer.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypechartplotter.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiVariablePointer.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypelogger.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"simpleLogger.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\simplelogger.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypefilelister.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"simpleFileLister.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\simplefilelister.h
+	"ofMain.h"
+	"ofxDirList.h"
+
+1329106708 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\tracking\trakingmanager_controlpanel.cpp
+	"trackingManager.h"
+
+1328994316 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxcleye\ofxcleye.cpp
+	"ofxCLeye.h"
+
+1328945132 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxcleye\ofxcleye.h
+	"CLEyeMulticam.h"
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvcolorimage.cpp
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvcontourfinder.cpp
+	"ofxCvContourFinder.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvfloatimage.cpp
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvgrayscaleimage.cpp
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvimage.cpp
+	"ofxCvImage.h"
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvBlob.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvshortimage.cpp
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+
+1309394024 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxtextsuite\src\ofxtextblock.cpp
+	"ofxTextBlock.h"
+
+1309394636 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxtextsuite\src\ofxtextblock.h
+	"ofMain.h"
+	<iterator>
+
+1327007144 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxwin32window\ofappwin32window.cpp
+	"ofAppWin32Window.h"
+	"ofBaseApp.h"
+	"ofMain.h"
+
+1327006661 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxwin32window\ofappwin32window.h
+	"ofConstants.h"
+	"ofAppBaseWindow.h"
+	"winman.h"
+
+1326342312 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxwin32window\winman.h
+	<Windows.h>
+	<tchar.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"winmanInternal.h"
+
+1325726741 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxwin32window\winmaninternal.h
+	<windows.h>
+
+1325809852 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxwin32window\winman.cpp
+	"winman.h"
+
+1311979842 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxwin32window\winmaninternal.cpp
+	"winmanInternal.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\calibration\calibrationfilesaver.cpp
+	"calibrationFileSaver.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\calibration\calibrationfilesaver.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"ofxControlPanel.h"
+	"ofxLeastSquares.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxleastsquares\src\ofxleastsquares.h
+	"ofxOpenCv.h"
+
+1327105279 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\calibration\calibrationmanager.cpp
+	"calibrationManager.h"
+
+1327102860 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\calibration\calibrationmanager.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"ofxControlPanel.h"
+	"ofxLeastSquares.h"
+	"calibrationFileSaver.h"
+	"pointFitter.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\calibration\pointfitter.h
+	"ofMain.h"
+	"ofxLeastSquares.h"
+	"calibrationFileSaver.h"
+
+1327104592 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\calibration\calibrationmanager_controlpanel.cpp
+	"calibrationManager.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\calibration\pointfitter.cpp
+	"pointFitter.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\eyeplottertestapp.cpp
+	"eyePlotterTestApp.h"
+	"groupCollection.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\eyeplottertestapp.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"baseScene.h"
+	"drawingScene.h"
+	"manipulationScene.h"
+	"styleScene.h"
+	"saverScene.h"
+	"buttonTrigger.h"
+	"grafIO.h"
+	"defines.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\scenes\basescene.h
+	"ofMain.h"
+	"buttonRect.h"
+	"defines.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gui\buttonrect.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\defines.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\scenes\drawingscene.h
+	"ofMain.h"
+	"strokeGroup.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"strokeThumbnails.h"
+	"ofxXmlSettings.h"
+	"baseScene.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\strokes\strokegroup.h
+	"stroke.h"
+	"ofxPoint2f.h"
+	"groupStyle.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\strokes\stroke.h
+	"ofMain.h"
+	"strokePoint.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\strokes\strokepoint.h
+	"ofMain.h"
+
+1265453358 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\addons\ofxvectormath\src\ofxpoint2f.h
+	"ofxVec2f.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\styling\groupstyle.h
+	<string>
+	<map>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gui\buttonstatemanager.h
+	"ofMain.h"
+	"buttonState.h"
+	"ofxVec2f.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gui\buttonstate.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gui\buttontoggle.h
+	"ofMain.h"
+	"buttonRect.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gui\buttontrigger.h
+	"ofMain.h"
+	"buttonRect.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\strokes\strokethumbnails.h
+	"strokeGroup.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\scenes\manipulationscene.h
+	"ofMain.h"
+	"strokeGroup.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"strokeThumbnails.h"
+	"strokeUtils.h"
+	"ofxXmlSettings.h"
+	"grafIO.h"
+	"baseScene.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\strokes\strokeutils.h
+	"strokeGroup.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gml\grafio.h
+	"strokeGroup.h"
+	"ofxXmlSettings.h"
+	"appUtils.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\apputils.h
+	"ofMain.h"
+
+1320375055 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\scenes\stylescene.h
+	"ofMain.h"
+	"strokeGroup.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"strokeThumbnails.h"
+	"ofxXmlSettings.h"
+	"grafIO.h"
+	"baseScene.h"
+	"styling/colorPicker.h"
+
+1320374864 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\styling\colorpicker.h
+	"ofGraphics.h"
+	"buttonTrigger.h"
+	"ofxXmlSettings.h"
+	<string>
+	<map>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\scenes\saverscene.h
+	"ofMain.h"
+	"strokeGroup.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"strokeThumbnails.h"
+	"strokeUtils.h"
+	"ofxXmlSettings.h"
+	"grafIO.h"
+	"gmlUploader.h"
+	"gmlReader.h"
+	"appUtils.h"
+	"fileHelper.h"
+	"baseScene.h"
+	"simpleFtpUpload.h"
+	"ofxDirList.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gml\gmluploader.h
+	"pocoHttpPostForm.h"
+	"ofxXmlSettings.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gml\httposting\pocohttppostform.h
+	"ofMain.h"
+	"ofxThread.h"
+	"Poco/Net/HTTPClientSession.h"
+	"Poco/Net/HTTPRequest.h"
+	"Poco/Net/HTTPResponse.h"
+	"Poco/Net/HTMLForm.h"
+	"Poco/StreamCopier.h"
+	"Poco/Path.h"
+	"Poco/URI.h"
+	"Poco/Exception.h"
+	"Poco/BasicEvent.h"
+	"Poco/Delegate.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\httpclientsession.h
+	"Poco/Net/Net.h"
+	"Poco/Net/HTTPSession.h"
+	"Poco/Net/SocketAddress.h"
+	<istream>
+	<ostream>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\net.h
+	"Poco/Foundation.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\httpsession.h
+	"Poco/Net/Net.h"
+	"Poco/Net/StreamSocket.h"
+	"Poco/Timespan.h"
+	"Poco/Exception.h"
+	<ios>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\streamsocket.h
+	"Poco/Net/Net.h"
+	"Poco/Net/Socket.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\socket.h
+	"Poco/Net/Net.h"
+	"Poco/Net/SocketImpl.h"
+	<vector>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\socketimpl.h
+	"Poco/Net/Net.h"
+	"Poco/Net/SocketDefs.h"
+	"Poco/Net/SocketAddress.h"
+	"Poco/RefCountedObject.h"
+	"Poco/Timespan.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\socketdefs.h
+	"Poco/UnWindows.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<unistd.h>
+	<errno.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/select.h>
+	<sys/ioctl.h>
+	<inet.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+	<netinet/tcp.h>
+	<netdb.h>
+	<net/if.h>
+	<sys/sockio.h>
+	<sys/filio.h>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\socketaddress.h
+	"Poco/Net/Net.h"
+	"Poco/Net/SocketDefs.h"
+	"Poco/Net/IPAddress.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\ipaddress.h
+	"Poco/Net/Net.h"
+	"Poco/Net/SocketDefs.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\timespan.h
+	"Poco/Foundation.h"
+	"Poco/Timestamp.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\httprequest.h
+	"Poco/Net/Net.h"
+	"Poco/Net/HTTPMessage.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\httpmessage.h
+	"Poco/Net/Net.h"
+	"Poco/Net/MessageHeader.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\messageheader.h
+	"Poco/Net/Net.h"
+	"Poco/Net/NameValueCollection.h"
+	<ostream>
+	<istream>
+	<vector>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\namevaluecollection.h
+	"Poco/Net/Net.h"
+	"Poco/String.h"
+	<map>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\string.h
+	"Poco/Foundation.h"
+	<cstring>
+	<cctype>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\httpresponse.h
+	"Poco/Net/Net.h"
+	"Poco/Net/HTTPMessage.h"
+	"Poco/Net/HTTPCookie.h"
+	"Poco/Timestamp.h"
+	<vector>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\httpcookie.h
+	"Poco/Net/Net.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\htmlform.h
+	"Poco/Net/Net.h"
+	"Poco/Net/NameValueCollection.h"
+	<ostream>
+	<istream>
+	<vector>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\streamcopier.h
+	"Poco/Foundation.h"
+	<istream>
+	<ostream>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\uri.h
+	"Poco/Foundation.h"
+	<vector>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\basicevent.h
+	"Poco/AbstractEvent.h"
+	"Poco/DefaultStrategy.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/CompareFunctions.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\defaultstrategy.h
+	"Poco/NotificationStrategy.h"
+	<memory>
+	<set>
+	<vector>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gml\gmlreader.h
+	"ofxXmlSettings.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\filehelper.h
+	"ofMain.h"
+	"Poco/Util/FilesystemConfiguration.h"
+	"Poco/File.h"
+	"Poco/Path.h"
+	"Poco/DirectoryIterator.h"
+	"Poco/StringTokenizer.h"
+	"Poco/Exception.h"
+	"Poco/FileStream.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\simpleftpupload.h
+	"Poco/Net/HTTPStreamFactory.h"
+	"Poco/Net/HTTPClientSession.h"
+	"Poco/Net/HTTPRequest.h"
+	"Poco/Net/HTTPResponse.h"
+	"Poco/Net/HTMLForm.h"
+	"Poco/URIStreamOpener.h"
+	"Poco/StreamCopier.h"
+	"Poco/URI.h"
+	"Poco/Exception.h"
+	"Poco/Net/FTPStreamFactory.h"
+	"Poco/Net/FTPClientSession.h"
+	"Poco/File.h"
+	"Poco/Path.h"
+	<fstream>
+	<ios>
+	<iostream>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\httpstreamfactory.h
+	"Poco/Net/Net.h"
+	"Poco/Net/HTTPSession.h"
+	"Poco/URIStreamFactory.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\uristreamfactory.h
+	"Poco/Foundation.h"
+	<istream>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\uristreamopener.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	<istream>
+	<map>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\ftpstreamfactory.h
+	"Poco/Net/Net.h"
+	"Poco/Net/HTTPSession.h"
+	"Poco/URIStreamFactory.h"
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\ftpclientsession.h
+	"Poco/Net/Net.h"
+	"Poco/Net/DialogSocket.h"
+	"Poco/Timespan.h"
+	<istream>
+	<ostream>
+
+1265453363 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\libs\poco\include\poco\net\dialogsocket.h
+	"Poco/Net/Net.h"
+	"Poco/Net/StreamSocket.h"
+
+1320374818 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\strokes\groupcollection.h
+	"ofMain.h"
+	"strokeGroup.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gml\gmlreader.cpp
+	"gmlReader.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gml\gmluploader.cpp
+	"gmlUploader.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gml\grafio.cpp
+	"grafIO.h"
+	"strokeUtils.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gml\httposting\pocohttppostform.cpp
+	"pocoHttpPostForm.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gui\buttonrect.cpp
+	"buttonRect.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gui\buttonstatemanager.cpp
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gui\buttontoggle.cpp
+	"buttonToggle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gui\buttontrigger.cpp
+	"buttonTrigger.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gui\timerbutton.cpp
+	"timerButton.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\gui\timerbutton.h
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\scenes\basescene.cpp
+	"baseScene.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\scenes\drawingscene.cpp
+	"drawingScene.h"
+	"groupCollection.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\scenes\manipulationscene.cpp
+	"manipulationScene.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\scenes\saverscene.cpp
+	"saverScene.h"
+	"renderManager.h"
+	"groupCollection.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\styling\rendermanager.h
+	"strokeGroup.h"
+	"groupStyle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\scenes\stylescene.cpp
+	"styleScene.h"
+	"renderManager.h"
+	"groupCollection.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\strokes\groupcollection.cpp
+	"groupCollection.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\strokes\stroke.cpp
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\strokes\strokegroup.cpp
+	"strokeGroup.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\strokes\strokepoint.cpp
+	"strokePoint.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\strokes\strokethumbnails.cpp
+	"strokeThumbnails.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\strokes\strokeutils.cpp
+	"strokeUtils.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\styling\colorpicker.cpp
+	"colorPicker.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\styling\groupstyle.cpp
+	"groupStyle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\eyeplottertestapp\styling\rendermanager.cpp
+	"renderManager.h"
+
+1329085814 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\imagekey.cpp
+	"imageKey.h"
+
+1313702166 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\imagekey.h
+	"key.h"
+	"ofMain.h"
+
+1326334982 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\key.h
+	"ofMain.h"
+	"buttonRect.h"
+	"ofxTextSuite.h"
+	"roundedRect.h"
+	<string>
+
+1309394586 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\addons\ofxtextsuite\src\ofxtextsuite.h
+	"ofxTextBlock.h"
+
+1312331103 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\roundedrect.h
+	"ofMain.h"
+
+1313604165 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\imagetogglekey.cpp
+	"imageToggleKey.h"
+
+1313604219 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\imagetogglekey.h
+	"imageKey.h"
+	"toggleKey.h"
+
+1313468506 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\togglekey.h
+	"key.h"
+
+1326335002 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\key.cpp
+	"key.h"
+
+1326311769 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\keyboardbase.cpp
+	"keyboardBase.h"
+
+1326311857 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\keyboardbase.h
+	"key.h"
+	"imageKey.h"
+	"imageToggleKey.h"
+
+1326393599 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\keyboardmanager.cpp
+	"keyboardManager.h"
+
+1326311845 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\keyboardmanager.h
+	"qwertyKeyboard.h"
+	"numericKeyboard.h"
+	"keyboardBase.h"
+	"textPrediction.h"
+	"textFieldEx.h"
+	<vector>
+	<string>
+	"ofMain.h"
+
+1326312127 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\qwertykeyboard.h
+	"imageKey.h"
+	"imageToggleKey.h"
+	"keyboardBase.h"
+	"textFieldEx.h"
+	<stdlib.h>
+	<string>
+	"ofMain.h"
+
+1313718196 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\textfieldex.h
+	"key.h"
+	"toggleKey.h"
+	"imageKey.h"
+	"ofImage.h"
+
+1326312200 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\numerickeyboard.h
+	"imageToggleKey.h"
+	"imageKey.h"
+	"keyboardBase.h"
+	"textFieldEx.h"
+	<stdlib.h>
+	<string>
+	"ofMain.h"
+
+1326405787 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\numerickeyboard.cpp
+	"numericKeyboard.h"
+
+1326405770 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\qwertykeyboard.cpp
+	"qwertyKeyboard.h"
+
+1326994819 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\textfieldex.cpp
+	"textFieldEx.h"
+	"key.h"
+	<string>
+	<windows.h>
+	<locale>
+
+1313467817 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\keyboard\togglekey.cpp
+	"toggleKey.h"
+
+1329102739 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\main.cpp
+	"ofMain.h"
+	"testApp.h"
+	"ofAppWin32Window.h"
+	"test.h"
+
+1327010594 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\testapp.h
+	"ofMain.h"
+	"trackingManager.h"
+	"calibrationManager.h"
+	"buttonTrigger.h"
+	"typingScene.h"
+	"pongScene.h"
+	"keyboardManager.h"
+	"eyePlotterTestApp.h"
+	"globalMouse.h"
+	<windows.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\otherscenes\typingscene.h
+	"ofMain.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"ofxXmlSettings.h"
+	"baseScene.h"
+	"speak.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\otherscenes\speak.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\otherscenes\pongscene.h
+	"ofMain.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"ofxXmlSettings.h"
+	"baseScene.h"
+	"buttonTrigger.h"
+
+1326343107 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\mouse\globalmouse.h
+	<windows.h>
+	"ofMain.h"
+	"simMouse.h"
+	"buttonRect.h"
+	"imageToggleKey.h"
+	"imageKey.h"
+	"keyboardManager.h"
+
+1325805353 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\mouse\simmouse.h
+	<windows.h>
+
+1329102743 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\test.h
+	"ofMain.h"
+	"clVideoGrabber.h"
+	"ofxClEye.h"
+	"clEye.h"
+	"ofxOpenCv.h"
+
+1336323498 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\mouse\globalmouse.cpp
+	"globalMouse.h"
+	"roundedRect.h"
+	"winman.h"
+
+1329086338 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\mouse\simmouse.cpp
+	"simMouse.h"
+	"ofMain.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\otherscenes\pongscene.cpp
+	"pongScene.h"
+
+1320384056 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\otherscenes\typingscene.cpp
+	"typingScene.h"
+
+1337056725 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\testapp.cpp
+	"testApp.h"
+	"stdio.h"
+	"winman.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\buttons\buttonrect.cpp
+	"buttonRect.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\buttons\buttonrect.h
+	"ofMain.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\buttons\buttontrigger.cpp
+	"buttonTrigger.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\buttons\buttontrigger.h
+	"ofMain.h"
+	"buttonRect.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guibaseobject.cpp
+	"guiBaseObject.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guicallback.cpp
+	"guiCallback.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guicallbackvalue.cpp
+	"guiCallbackValue.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guicolor.cpp
+	"guiColor.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitextbase.cpp
+	"guiTextBase.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitype2dslider.cpp
+	"guiType2DSlider.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypebuttonslider.cpp
+	"guiTypeButtonSlider.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypechartplotter.cpp
+	"guiTypeChartPlotter.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypecustom.cpp
+	"guiTypeCustom.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypedrawable.cpp
+	"guiTypeDrawable.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypefilelister.cpp
+	"guiTypeFileLister.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypelogger.cpp
+	"guiTypeLogger.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypemultitoggle.cpp
+	"guiTypeMultiToggle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypepanel.cpp
+	"guiTypePanel.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypeslider.cpp
+	"guiTypeSlider.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypetext.cpp
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypetextdropdown.cpp
+	"guiTypeTextDropDown.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypetoggle.cpp
+	"guiTypeToggle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypevairablelister.cpp
+	"guiTypeVairableLister.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypevideo.cpp
+	"guiTypeVideo.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\guivalue.cpp
+	"guiValue.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\ofxcontrolpanel.cpp
+	"ofxControlPanel.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\simplecolor.cpp
+	"simpleColor.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\simplefilelister.cpp
+	"simpleFileLister.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcontrolpanel\simplelogger.cpp
+	"simpleLogger.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxcvgrayscaleadvanced\ofxcvgrayscaleadvanced.cpp
+	"ofxCvGrayscaleAdvanced.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\ofxleastsquares\src\ofxleastsquares.cpp
+	"ofxLeastSquares.h"
+
+1312331827 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1\eyewritertracker\src\utils\roundedrect.cpp
+	"roundedRect.h"
+
+1337140991 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\cleye\cleye.cpp
+	"cleye.h"
+
+1337140426 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\cleye\cleye.h
+	"CLEyeMulticam.h"
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1328887266 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\cleye\cleyemulticam.h
+	<windows.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxopencv.h
+	"ofxCvConstants.h"
+	"ofxCvImage.h"
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+	"ofxCvContourFinder.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvconstants.h
+	"cv.h"
+	<vector>
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cv.h
+	<chdl.h>
+	"cxcore.h"
+	"cvtypes.h"
+	"cv.hpp"
+	"cvcompat.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cxcore.h
+	"ipl.h"
+	"ipl/ipl.h"
+	"cxtypes.h"
+	"cxerror.h"
+	"cvver.h"
+	"cxcore.hpp"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cxtypes.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<mathimf.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cxerror.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cvver.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cxcore.hpp
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cvtypes.h
+	<assert.h>
+	<stdlib.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cv.hpp
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cvcompat.h
+	<string.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvimage.h
+	"ofxCvConstants.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvgrayscaleimage.h
+	"ofxCvImage.h"
+	"ofxCvBlob.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvblob.h
+	"ofxCvConstants.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvcolorimage.h
+	"ofxCvImage.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvfloatimage.h
+	"ofxCvImage.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvshortimage.h
+	"ofxCvImage.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvcontourfinder.h
+	"ofxCvConstants.h"
+	"ofxCvBlob.h"
+	"ofxCvGrayscaleImage.h"
+	<algorithm>
+
+1326308031 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\presage\textprediction.cpp
+	"textPrediction.h"
+	"presage.h"
+	<iostream>
+
+1326308037 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\presage\textprediction.h
+	"presage.h"
+	<string>
+	<vector>
+
+1293133409 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\presage\presage.h
+	"presageException.h"
+	"presageCallback.h"
+	<string>
+	<vector>
+	<map>
+
+1292941899 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\presage\presageexception.h
+	<exception>
+	<string>
+
+1292709528 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\presage\presagecallback.h
+	<string>
+	<sstream>
+
+1333221635 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\glintfinder\glintfinder.cpp
+	"glintFinder.h"
+
+1332914114 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\glintfinder\glintfinder.h
+	"ofMain.h"
+	"ofxCvGrayscaleAdvanced.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+	"glintLineChecker.h"
+	"glintRefChecker.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcvgrayscaleadvanced\ofxcvgrayscaleadvanced.h
+	"ofxCvGrayscaleImage.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\glintfinder\glintlinechecker.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\glintfinder\glintrefchecker.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1333221913 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\glintfinder\glintlinechecker.cpp
+	"glintLineChecker.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\glintfinder\glintrefchecker.cpp
+	"glintRefChecker.h"
+
+1341858142 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\inputmanager\inputmanager.cpp
+	"inputManager.h"
+	<typeinfo>
+
+1328888699 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\inputmanager\inputmanager.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"ofxOpenCv.h"
+	"qtVideoGrabber.h"
+	"threadedImgSaver.h"
+	"ofxFileHelper.h"
+	"fireflyVideoGrabber.h"
+	"clVideoGrabber.h"
+
+1341858147 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\inputmanager\threadedgrabber\qtvideograbber.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"baseVideoGrabber.h"
+	"threadedQtVideoGrabber.h"
+
+1341858166 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\inputmanager\threadedgrabber\basevideograbber.h
+	"ofMain.h"
+
+1341873026 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\inputmanager\threadedgrabber\threadedqtvideograbber.h
+	"ofVideoGrabber.h"
+	"ofxOpenCv.h"
+	"ofxThread.h"
+	"ofEvents.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\inputmanager\threadedimgsaver.h
+	"ofMain.h"
+	"ofxThread.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxfilehelper\ofxfilehelper.h
+	"ofMain.h"
+	"Poco/Util/FilesystemConfiguration.h"
+	"Poco/File.h"
+	"Poco/Path.h"
+	"Poco/DirectoryIterator.h"
+	"Poco/StringTokenizer.h"
+	"Poco/Exception.h"
+	"Poco/FileStream.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\inputmanager\threadedgrabber\fireflyvideograbber.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"baseVideoGrabber.h"
+	"threadedPtGreyGrabber.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\inputmanager\threadedgrabber\threadedptgreygrabber.h
+	"ofxLibdcPtGrey.h"
+	"ofxOpenCv.h"
+	"ofxThread.h"
+	"ofEvents.h"
+
+1337140730 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\cleye\clvideograbber.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"baseVideoGrabber.h"
+	"threadedClVideoGrabber.h"
+
+1329031770 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\cleye\threadedclvideograbber.h
+	"clEye.h"
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"ofxThread.h"
+	"ofEvents.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\pupilfinder\ellipsefit\ellipsecalcurator.cpp
+	"EllipseCalcurator.h"
+	"FitEllipse.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\pupilfinder\ellipsefit\ellipsecalcurator.h
+	"ofMain.h"
+	"FitEllipse.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\pupilfinder\ellipsefit\fitellipse.h
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\pupilfinder\ellipsefit\fitellipse.cpp
+	<math.h>
+	<assert.h>
+	<stdio.h>
+	"FitEllipse.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\pupilfinder\blobresampler.cpp
+	"blobResampler.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\pupilfinder\blobresampler.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1331157173 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\pupilfinder\pupilfinder.cpp
+	"pupilFinder.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\pupilfinder\pupilfinder.h
+	"ofMain.h"
+	"ofxCvGrayscaleAdvanced.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+	"EllipseCalcurator.h"
+	"eyeFinder.h"
+	"blobResampler.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\eyefinder.h
+	"ofMain.h"
+	"ofxCvGrayscaleAdvanced.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+
+1330974831 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\brightdarkfinder.cpp
+	"brightDarkFinder.h"
+
+1330897408 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\brightdarkfinder.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"ofxCvGrayscaleAdvanced.h"
+
+1331344641 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\eyefinder.cpp
+	"eyeFinder.h"
+
+1332912433 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\eyetracker.cpp
+	"eyeTracker.h"
+
+1331345767 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\eyetracker.h
+	"ofMain.h"
+	"ofxCvGrayscaleAdvanced.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+	"eyeFinder.h"
+	"pupilFinder.h"
+	"glintFinder.h"
+	"EllipseCalcurator.h"
+	"homographyCalcurator.h"
+	"brightDarkFinder.h"
+	"thresholdCalculator.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\homographycalcurator.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"glintFinder.h"
+	"ofxCvGrayscaleAdvanced.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\thresholdcalculator.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"ofxCvGrayscaleAdvanced.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\homographycalcurator.cpp
+	"homographyCalcurator.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\thresholdcalculator.cpp
+	"thresholdCalculator.h"
+
+1341610716 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\trackingmanager.cpp
+	"trackingManager.h"
+
+1341507394 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\trackingmanager.h
+	"ofMain.h"
+	"eyeTracker.h"
+	"ofxControlPanel.h"
+	"inputManager.h"
+	"threadedImgSaver.h"
+	"ofxFileHelper.h"
+	"ofxXmlSettings.h"
+	"ofxDirList.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\ofxcontrolpanel.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"guiIncludes.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guiincludes.h
+	"guiValue.h"
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiVariablePointer.h"
+	"guiTypePanel.h"
+	"guiTypeText.h"
+	"guiTypeToggle.h"
+	"guiTypeMultiToggle.h"
+	"guiTypeSlider.h"
+	"guiType2DSlider.h"
+	"guiTypeDrawable.h"
+	"guiTypeButtonSlider.h"
+	"guiTypeTextDropDown.h"
+	"guiTypeCustom.h"
+	"guiCustomImpl.h"
+	"guiTypeVideo.h"
+	"guiTypeVairableLister.h"
+	"guiTypeChartPlotter.h"
+	"guiTypeLogger.h"
+	"guiTypeFileLister.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guivalue.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guibaseobject.h
+	"simpleColor.h"
+	"guiColor.h"
+	"guiValue.h"
+	"guiTextBase.h"
+	"guiCallback.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\simplecolor.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guicolor.h
+	"simpleColor.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitextbase.h
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guicallback.h
+	"ofMain.h"
+	"guiCallbackValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guicallbackvalue.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guivariablepointer.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypepanel.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypetext.h
+	"guiBaseObject.h"
+	"guiTypeText.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypetoggle.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypemultitoggle.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypeslider.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitype2dslider.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypedrawable.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypebuttonslider.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiTypeToggle.h"
+	"guiTypeSlider.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypetextdropdown.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypecustom.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiCustomImpl.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guicustomimpl.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypevideo.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiTypeDrawable.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypevairablelister.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiVariablePointer.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypechartplotter.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiVariablePointer.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypelogger.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"simpleLogger.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\simplelogger.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypefilelister.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"simpleFileLister.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\simplefilelister.h
+	"ofMain.h"
+	"ofxDirList.h"
+
+1342075552 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\tracking\trakingmanager_controlpanel.cpp
+	"trackingManager.h"
+
+1328994316 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxcleye\ofxcleye.cpp
+	"ofxCLeye.h"
+
+1328945132 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxcleye\ofxcleye.h
+	"CLEyeMulticam.h"
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvcolorimage.cpp
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvcontourfinder.cpp
+	"ofxCvContourFinder.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvfloatimage.cpp
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvgrayscaleimage.cpp
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvimage.cpp
+	"ofxCvImage.h"
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvBlob.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxopencv\src\ofxcvshortimage.cpp
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+
+1309394024 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxtextsuite\src\ofxtextblock.cpp
+	"ofxTextBlock.h"
+
+1309394636 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxtextsuite\src\ofxtextblock.h
+	"ofMain.h"
+	<iterator>
+
+1341864791 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxwin32window\ofappwin32window.cpp
+	"ofAppWin32Window.h"
+	"ofBaseApp.h"
+	"ofMain.h"
+
+1327006661 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxwin32window\ofappwin32window.h
+	"ofConstants.h"
+	"ofAppBaseWindow.h"
+	"winman.h"
+
+1326342312 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxwin32window\winman.h
+	<Windows.h>
+	<tchar.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"winmanInternal.h"
+
+1325726741 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxwin32window\winmaninternal.h
+	<windows.h>
+
+1341867313 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxwin32window\winman.cpp
+	"winman.h"
+
+1311979842 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxwin32window\winmaninternal.cpp
+	"winmanInternal.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\calibration\calibrationfilesaver.cpp
+	"calibrationFileSaver.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\calibration\calibrationfilesaver.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"ofxControlPanel.h"
+	"ofxLeastSquares.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxleastsquares\src\ofxleastsquares.h
+	"ofxOpenCv.h"
+
+1327105279 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\calibration\calibrationmanager.cpp
+	"calibrationManager.h"
+
+1327102860 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\calibration\calibrationmanager.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"ofxControlPanel.h"
+	"ofxLeastSquares.h"
+	"calibrationFileSaver.h"
+	"pointFitter.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\calibration\pointfitter.h
+	"ofMain.h"
+	"ofxLeastSquares.h"
+	"calibrationFileSaver.h"
+
+1327104592 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\calibration\calibrationmanager_controlpanel.cpp
+	"calibrationManager.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\calibration\pointfitter.cpp
+	"pointFitter.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\eyeplottertestapp.cpp
+	"eyePlotterTestApp.h"
+	"groupCollection.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\eyeplottertestapp.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"baseScene.h"
+	"drawingScene.h"
+	"manipulationScene.h"
+	"styleScene.h"
+	"saverScene.h"
+	"buttonTrigger.h"
+	"grafIO.h"
+	"defines.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\scenes\basescene.h
+	"ofMain.h"
+	"buttonRect.h"
+	"defines.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gui\buttonrect.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\defines.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\scenes\drawingscene.h
+	"ofMain.h"
+	"strokeGroup.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"strokeThumbnails.h"
+	"ofxXmlSettings.h"
+	"baseScene.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\strokes\strokegroup.h
+	"stroke.h"
+	"ofxPoint2f.h"
+	"groupStyle.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\strokes\stroke.h
+	"ofMain.h"
+	"strokePoint.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\strokes\strokepoint.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\styling\groupstyle.h
+	<string>
+	<map>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gui\buttonstatemanager.h
+	"ofMain.h"
+	"buttonState.h"
+	"ofxVec2f.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gui\buttonstate.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gui\buttontoggle.h
+	"ofMain.h"
+	"buttonRect.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gui\buttontrigger.h
+	"ofMain.h"
+	"buttonRect.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\strokes\strokethumbnails.h
+	"strokeGroup.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\scenes\manipulationscene.h
+	"ofMain.h"
+	"strokeGroup.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"strokeThumbnails.h"
+	"strokeUtils.h"
+	"ofxXmlSettings.h"
+	"grafIO.h"
+	"baseScene.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\strokes\strokeutils.h
+	"strokeGroup.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gml\grafio.h
+	"strokeGroup.h"
+	"ofxXmlSettings.h"
+	"appUtils.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\apputils.h
+	"ofMain.h"
+
+1320375055 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\scenes\stylescene.h
+	"ofMain.h"
+	"strokeGroup.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"strokeThumbnails.h"
+	"ofxXmlSettings.h"
+	"grafIO.h"
+	"baseScene.h"
+	"styling/colorPicker.h"
+
+1320374864 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\styling\colorpicker.h
+	"ofGraphics.h"
+	"buttonTrigger.h"
+	"ofxXmlSettings.h"
+	<string>
+	<map>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\scenes\saverscene.h
+	"ofMain.h"
+	"strokeGroup.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"strokeThumbnails.h"
+	"strokeUtils.h"
+	"ofxXmlSettings.h"
+	"grafIO.h"
+	"gmlUploader.h"
+	"gmlReader.h"
+	"appUtils.h"
+	"fileHelper.h"
+	"baseScene.h"
+	"simpleFtpUpload.h"
+	"ofxDirList.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gml\gmluploader.h
+	"pocoHttpPostForm.h"
+	"ofxXmlSettings.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gml\httposting\pocohttppostform.h
+	"ofMain.h"
+	"ofxThread.h"
+	"Poco/Net/HTTPClientSession.h"
+	"Poco/Net/HTTPRequest.h"
+	"Poco/Net/HTTPResponse.h"
+	"Poco/Net/HTMLForm.h"
+	"Poco/StreamCopier.h"
+	"Poco/Path.h"
+	"Poco/URI.h"
+	"Poco/Exception.h"
+	"Poco/BasicEvent.h"
+	"Poco/Delegate.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gml\gmlreader.h
+	"ofxXmlSettings.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\filehelper.h
+	"ofMain.h"
+	"Poco/Util/FilesystemConfiguration.h"
+	"Poco/File.h"
+	"Poco/Path.h"
+	"Poco/DirectoryIterator.h"
+	"Poco/StringTokenizer.h"
+	"Poco/Exception.h"
+	"Poco/FileStream.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\simpleftpupload.h
+	"Poco/Net/HTTPStreamFactory.h"
+	"Poco/Net/HTTPClientSession.h"
+	"Poco/Net/HTTPRequest.h"
+	"Poco/Net/HTTPResponse.h"
+	"Poco/Net/HTMLForm.h"
+	"Poco/URIStreamOpener.h"
+	"Poco/StreamCopier.h"
+	"Poco/URI.h"
+	"Poco/Exception.h"
+	"Poco/Net/FTPStreamFactory.h"
+	"Poco/Net/FTPClientSession.h"
+	"Poco/File.h"
+	"Poco/Path.h"
+	<fstream>
+	<ios>
+	<iostream>
+
+1320374818 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\strokes\groupcollection.h
+	"ofMain.h"
+	"strokeGroup.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gml\gmlreader.cpp
+	"gmlReader.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gml\gmluploader.cpp
+	"gmlUploader.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gml\grafio.cpp
+	"grafIO.h"
+	"strokeUtils.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gml\httposting\pocohttppostform.cpp
+	"pocoHttpPostForm.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gui\buttonrect.cpp
+	"buttonRect.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gui\buttonstatemanager.cpp
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gui\buttontoggle.cpp
+	"buttonToggle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gui\buttontrigger.cpp
+	"buttonTrigger.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gui\timerbutton.cpp
+	"timerButton.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\gui\timerbutton.h
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\scenes\basescene.cpp
+	"baseScene.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\scenes\drawingscene.cpp
+	"drawingScene.h"
+	"groupCollection.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\scenes\manipulationscene.cpp
+	"manipulationScene.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\scenes\saverscene.cpp
+	"saverScene.h"
+	"renderManager.h"
+	"groupCollection.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\styling\rendermanager.h
+	"strokeGroup.h"
+	"groupStyle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\scenes\stylescene.cpp
+	"styleScene.h"
+	"renderManager.h"
+	"groupCollection.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\strokes\groupcollection.cpp
+	"groupCollection.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\strokes\stroke.cpp
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\strokes\strokegroup.cpp
+	"strokeGroup.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\strokes\strokepoint.cpp
+	"strokePoint.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\strokes\strokethumbnails.cpp
+	"strokeThumbnails.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\strokes\strokeutils.cpp
+	"strokeUtils.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\styling\colorpicker.cpp
+	"colorPicker.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\styling\groupstyle.cpp
+	"groupStyle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\eyeplottertestapp\styling\rendermanager.cpp
+	"renderManager.h"
+
+1342031605 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\imagekey.cpp
+	"imageKey.h"
+
+1342041592 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\imagekey.h
+	"key.h"
+	"ofMain.h"
+
+1342057721 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\key.h
+	"ofMain.h"
+	"buttonRect.h"
+	"ofxTextSuite.h"
+	"roundedRect.h"
+	<string>
+
+1309394586 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\addons\ofxtextsuite\src\ofxtextsuite.h
+	"ofxTextBlock.h"
+
+1312331103 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\roundedrect.h
+	"ofMain.h"
+
+1313604165 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\imagetogglekey.cpp
+	"imageToggleKey.h"
+
+1342041972 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\imagetogglekey.h
+	"imageKey.h"
+	"toggleKey.h"
+
+1342043543 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\togglekey.h
+	"key.h"
+
+1342072600 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\key.cpp
+	"key.h"
+
+1341953021 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\keyboardbase.cpp
+	"keyboardBase.h"
+
+1341967179 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\keyboardbase.h
+	"key.h"
+	"imageKey.h"
+	"imageToggleKey.h"
+
+1342120835 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\keyboardmanager.cpp
+	"keyboardManager.h"
+
+1341944809 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\keyboardmanager.h
+	"qwertyKeyboard.h"
+	"numericKeyboard.h"
+	"keyboardBase.h"
+	"textPrediction.h"
+	"textFieldEx.h"
+	<vector>
+	<string>
+	"ofMain.h"
+
+1326312127 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\qwertykeyboard.h
+	"imageKey.h"
+	"imageToggleKey.h"
+	"keyboardBase.h"
+	"textFieldEx.h"
+	<stdlib.h>
+	<string>
+	"ofMain.h"
+
+1342051756 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\textfieldex.h
+	"key.h"
+	"toggleKey.h"
+	"imageKey.h"
+	"ofImage.h"
+
+1326312200 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\numerickeyboard.h
+	"imageToggleKey.h"
+	"imageKey.h"
+	"keyboardBase.h"
+	"textFieldEx.h"
+	<stdlib.h>
+	<string>
+	"ofMain.h"
+
+1341946198 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\numerickeyboard.cpp
+	"numericKeyboard.h"
+
+1342121383 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\qwertykeyboard.cpp
+	"qwertyKeyboard.h"
+
+1342121419 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\textfieldex.cpp
+	"textFieldEx.h"
+	"key.h"
+	<string>
+	<windows.h>
+	<locale>
+
+1313467817 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\keyboard\togglekey.cpp
+	"toggleKey.h"
+
+1341858525 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\main.cpp
+	"ofMain.h"
+	"testApp.h"
+	"ofAppWin32Window.h"
+	"test.h"
+
+1342117457 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\testapp.h
+	"ofMain.h"
+	"trackingManager.h"
+	"calibrationManager.h"
+	"buttonTrigger.h"
+	"typingScene.h"
+	"pongScene.h"
+	"keyboardManager.h"
+	"eyePlotterTestApp.h"
+	"globalMouse.h"
+	<windows.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\otherscenes\typingscene.h
+	"ofMain.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"ofxXmlSettings.h"
+	"baseScene.h"
+	"speak.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\otherscenes\speak.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\otherscenes\pongscene.h
+	"ofMain.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"ofxXmlSettings.h"
+	"baseScene.h"
+	"buttonTrigger.h"
+
+1342053153 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\mouse\globalmouse.h
+	<windows.h>
+	"ofMain.h"
+	"simMouse.h"
+	"buttonRect.h"
+	"imageToggleKey.h"
+	"imageKey.h"
+	"keyboardManager.h"
+	"cameraOverlay.h"
+
+1342053567 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\mouse\simmouse.h
+	<windows.h>
+
+1329102743 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\test.h
+	"ofMain.h"
+	"clVideoGrabber.h"
+	"ofxClEye.h"
+	"clEye.h"
+	"ofxOpenCv.h"
+
+1342053493 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\mouse\globalmouse.cpp
+	"globalMouse.h"
+	"roundedRect.h"
+	"winman.h"
+
+1342078686 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\mouse\simmouse.cpp
+	"simMouse.h"
+	"ofMain.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\otherscenes\pongscene.cpp
+	"pongScene.h"
+
+1320384056 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\otherscenes\typingscene.cpp
+	"typingScene.h"
+
+1342119208 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\testapp.cpp
+	"testApp.h"
+	"stdio.h"
+	"winman.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\buttons\buttonrect.cpp
+	"buttonRect.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\buttons\buttonrect.h
+	"ofMain.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\buttons\buttontrigger.cpp
+	"buttonTrigger.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\buttons\buttontrigger.h
+	"ofMain.h"
+	"buttonRect.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guibaseobject.cpp
+	"guiBaseObject.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guicallback.cpp
+	"guiCallback.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guicallbackvalue.cpp
+	"guiCallbackValue.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guicolor.cpp
+	"guiColor.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitextbase.cpp
+	"guiTextBase.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitype2dslider.cpp
+	"guiType2DSlider.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypebuttonslider.cpp
+	"guiTypeButtonSlider.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypechartplotter.cpp
+	"guiTypeChartPlotter.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypecustom.cpp
+	"guiTypeCustom.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypedrawable.cpp
+	"guiTypeDrawable.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypefilelister.cpp
+	"guiTypeFileLister.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypelogger.cpp
+	"guiTypeLogger.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypemultitoggle.cpp
+	"guiTypeMultiToggle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypepanel.cpp
+	"guiTypePanel.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypeslider.cpp
+	"guiTypeSlider.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypetext.cpp
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypetextdropdown.cpp
+	"guiTypeTextDropDown.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypetoggle.cpp
+	"guiTypeToggle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypevairablelister.cpp
+	"guiTypeVairableLister.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guitypevideo.cpp
+	"guiTypeVideo.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\guivalue.cpp
+	"guiValue.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\ofxcontrolpanel.cpp
+	"ofxControlPanel.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\simplecolor.cpp
+	"simpleColor.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\simplefilelister.cpp
+	"simpleFileLister.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcontrolpanel\simplelogger.cpp
+	"simpleLogger.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxcvgrayscaleadvanced\ofxcvgrayscaleadvanced.cpp
+	"ofxCvGrayscaleAdvanced.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\ofxleastsquares\src\ofxleastsquares.cpp
+	"ofxLeastSquares.h"
+
+1312331827 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\utils\roundedrect.cpp
+	"roundedRect.h"
+
+1341871818 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\cameraoverlay.cpp
+	"cameraOverlay.h"
+	"winman.h"
+
+1341612784 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_1\eyewritertracker\src\cameraoverlay.h
+	"ofxOpenCv.h"
+	<windows.h>
+
+1337140991 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\cleye\cleye.cpp
+	"cleye.h"
+
+1337140426 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\cleye\cleye.h
+	"CLEyeMulticam.h"
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1328887266 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\cleye\cleyemulticam.h
+	<windows.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxopencv.h
+	"ofxCvConstants.h"
+	"ofxCvImage.h"
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+	"ofxCvContourFinder.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxcvconstants.h
+	"cv.h"
+	<vector>
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cv.h
+	<chdl.h>
+	"cxcore.h"
+	"cvtypes.h"
+	"cv.hpp"
+	"cvcompat.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cxcore.h
+	"ipl.h"
+	"ipl/ipl.h"
+	"cxtypes.h"
+	"cxerror.h"
+	"cvver.h"
+	"cxcore.hpp"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cxtypes.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<mathimf.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cxerror.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cvver.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cxcore.hpp
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cvtypes.h
+	<assert.h>
+	<stdlib.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cv.hpp
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\libs\opencv\include\cvcompat.h
+	<string.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxcvimage.h
+	"ofxCvConstants.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxcvgrayscaleimage.h
+	"ofxCvImage.h"
+	"ofxCvBlob.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxcvblob.h
+	"ofxCvConstants.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxcvcolorimage.h
+	"ofxCvImage.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxcvfloatimage.h
+	"ofxCvImage.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxcvshortimage.h
+	"ofxCvImage.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxcvcontourfinder.h
+	"ofxCvConstants.h"
+	"ofxCvBlob.h"
+	"ofxCvGrayscaleImage.h"
+	<algorithm>
+
+1326308031 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\presage\textprediction.cpp
+	"textPrediction.h"
+	"presage.h"
+	<iostream>
+
+1326308037 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\presage\textprediction.h
+	"presage.h"
+	<string>
+	<vector>
+
+1293133409 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\presage\presage.h
+	"presageException.h"
+	"presageCallback.h"
+	<string>
+	<vector>
+	<map>
+
+1292941899 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\presage\presageexception.h
+	<exception>
+	<string>
+
+1292709528 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\presage\presagecallback.h
+	<string>
+	<sstream>
+
+1333221635 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\glintfinder\glintfinder.cpp
+	"glintFinder.h"
+
+1332914114 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\glintfinder\glintfinder.h
+	"ofMain.h"
+	"ofxCvGrayscaleAdvanced.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+	"glintLineChecker.h"
+	"glintRefChecker.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcvgrayscaleadvanced\ofxcvgrayscaleadvanced.h
+	"ofxCvGrayscaleImage.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\glintfinder\glintlinechecker.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\glintfinder\glintrefchecker.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1333221913 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\glintfinder\glintlinechecker.cpp
+	"glintLineChecker.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\glintfinder\glintrefchecker.cpp
+	"glintRefChecker.h"
+
+1341858142 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\inputmanager\inputmanager.cpp
+	"inputManager.h"
+	<typeinfo>
+
+1328888699 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\inputmanager\inputmanager.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"ofxOpenCv.h"
+	"qtVideoGrabber.h"
+	"threadedImgSaver.h"
+	"ofxFileHelper.h"
+	"fireflyVideoGrabber.h"
+	"clVideoGrabber.h"
+
+1341858147 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\inputmanager\threadedgrabber\qtvideograbber.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"baseVideoGrabber.h"
+	"threadedQtVideoGrabber.h"
+
+1341858166 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\inputmanager\threadedgrabber\basevideograbber.h
+	"ofMain.h"
+
+1341873026 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\inputmanager\threadedgrabber\threadedqtvideograbber.h
+	"ofVideoGrabber.h"
+	"ofxOpenCv.h"
+	"ofxThread.h"
+	"ofEvents.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\inputmanager\threadedimgsaver.h
+	"ofMain.h"
+	"ofxThread.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxfilehelper\ofxfilehelper.h
+	"ofMain.h"
+	"Poco/Util/FilesystemConfiguration.h"
+	"Poco/File.h"
+	"Poco/Path.h"
+	"Poco/DirectoryIterator.h"
+	"Poco/StringTokenizer.h"
+	"Poco/Exception.h"
+	"Poco/FileStream.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\inputmanager\threadedgrabber\fireflyvideograbber.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"baseVideoGrabber.h"
+	"threadedPtGreyGrabber.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\inputmanager\threadedgrabber\threadedptgreygrabber.h
+	"ofxLibdcPtGrey.h"
+	"ofxOpenCv.h"
+	"ofxThread.h"
+	"ofEvents.h"
+
+1337140730 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\cleye\clvideograbber.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"baseVideoGrabber.h"
+	"threadedClVideoGrabber.h"
+
+1329031770 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\cleye\threadedclvideograbber.h
+	"clEye.h"
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"ofxThread.h"
+	"ofEvents.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\pupilfinder\ellipsefit\ellipsecalcurator.cpp
+	"EllipseCalcurator.h"
+	"FitEllipse.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\pupilfinder\ellipsefit\ellipsecalcurator.h
+	"ofMain.h"
+	"FitEllipse.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\pupilfinder\ellipsefit\fitellipse.h
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\pupilfinder\ellipsefit\fitellipse.cpp
+	<math.h>
+	<assert.h>
+	<stdio.h>
+	"FitEllipse.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\pupilfinder\blobresampler.cpp
+	"blobResampler.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\pupilfinder\blobresampler.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1331157173 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\pupilfinder\pupilfinder.cpp
+	"pupilFinder.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\pupilfinder\pupilfinder.h
+	"ofMain.h"
+	"ofxCvGrayscaleAdvanced.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+	"EllipseCalcurator.h"
+	"eyeFinder.h"
+	"blobResampler.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\eyefinder.h
+	"ofMain.h"
+	"ofxCvGrayscaleAdvanced.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+
+1330974831 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\brightdarkfinder.cpp
+	"brightDarkFinder.h"
+
+1330897408 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\brightdarkfinder.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"ofxCvGrayscaleAdvanced.h"
+
+1331344641 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\eyefinder.cpp
+	"eyeFinder.h"
+
+1332912433 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\eyetracker.cpp
+	"eyeTracker.h"
+
+1331345767 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\eyetracker.h
+	"ofMain.h"
+	"ofxCvGrayscaleAdvanced.h"
+	"ofxOpenCv.h"
+	"ofxVectorMath.h"
+	"eyeFinder.h"
+	"pupilFinder.h"
+	"glintFinder.h"
+	"EllipseCalcurator.h"
+	"homographyCalcurator.h"
+	"brightDarkFinder.h"
+	"thresholdCalculator.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\homographycalcurator.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"glintFinder.h"
+	"ofxCvGrayscaleAdvanced.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\thresholdcalculator.h
+	"ofMain.h"
+	"ofxOpenCv.h"
+	"ofxCvGrayscaleAdvanced.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\homographycalcurator.cpp
+	"homographyCalcurator.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\thresholdcalculator.cpp
+	"thresholdCalculator.h"
+
+1341610716 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\trackingmanager.cpp
+	"trackingManager.h"
+
+1341507394 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\trackingmanager.h
+	"ofMain.h"
+	"eyeTracker.h"
+	"ofxControlPanel.h"
+	"inputManager.h"
+	"threadedImgSaver.h"
+	"ofxFileHelper.h"
+	"ofxXmlSettings.h"
+	"ofxDirList.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\ofxcontrolpanel.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"guiIncludes.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guiincludes.h
+	"guiValue.h"
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiVariablePointer.h"
+	"guiTypePanel.h"
+	"guiTypeText.h"
+	"guiTypeToggle.h"
+	"guiTypeMultiToggle.h"
+	"guiTypeSlider.h"
+	"guiType2DSlider.h"
+	"guiTypeDrawable.h"
+	"guiTypeButtonSlider.h"
+	"guiTypeTextDropDown.h"
+	"guiTypeCustom.h"
+	"guiCustomImpl.h"
+	"guiTypeVideo.h"
+	"guiTypeVairableLister.h"
+	"guiTypeChartPlotter.h"
+	"guiTypeLogger.h"
+	"guiTypeFileLister.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guivalue.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guibaseobject.h
+	"simpleColor.h"
+	"guiColor.h"
+	"guiValue.h"
+	"guiTextBase.h"
+	"guiCallback.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\simplecolor.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guicolor.h
+	"simpleColor.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitextbase.h
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guicallback.h
+	"ofMain.h"
+	"guiCallbackValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guicallbackvalue.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guivariablepointer.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypepanel.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypetext.h
+	"guiBaseObject.h"
+	"guiTypeText.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypetoggle.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypemultitoggle.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypeslider.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitype2dslider.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypedrawable.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypebuttonslider.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiTypeToggle.h"
+	"guiTypeSlider.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypetextdropdown.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypecustom.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiCustomImpl.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guicustomimpl.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypevideo.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiTypeDrawable.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypevairablelister.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiVariablePointer.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypechartplotter.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"guiVariablePointer.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypelogger.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"simpleLogger.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\simplelogger.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypefilelister.h
+	"guiBaseObject.h"
+	"guiColor.h"
+	"simpleColor.h"
+	"guiValue.h"
+	"simpleFileLister.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\simplefilelister.h
+	"ofMain.h"
+	"ofxDirList.h"
+
+1342075552 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\tracking\trakingmanager_controlpanel.cpp
+	"trackingManager.h"
+
+1328994316 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxcleye\ofxcleye.cpp
+	"ofxCLeye.h"
+
+1328945132 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxcleye\ofxcleye.h
+	"CLEyeMulticam.h"
+	"ofMain.h"
+	"ofxOpenCv.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxcvcolorimage.cpp
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxcvcontourfinder.cpp
+	"ofxCvContourFinder.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxcvfloatimage.cpp
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxcvgrayscaleimage.cpp
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxcvimage.cpp
+	"ofxCvImage.h"
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvBlob.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxopencv\src\ofxcvshortimage.cpp
+	"ofxCvGrayscaleImage.h"
+	"ofxCvColorImage.h"
+	"ofxCvFloatImage.h"
+	"ofxCvShortImage.h"
+
+1309394024 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxtextsuite\src\ofxtextblock.cpp
+	"ofxTextBlock.h"
+
+1309394636 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxtextsuite\src\ofxtextblock.h
+	"ofMain.h"
+	<iterator>
+
+1341864791 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxwin32window\ofappwin32window.cpp
+	"ofAppWin32Window.h"
+	"ofBaseApp.h"
+	"ofMain.h"
+
+1327006661 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxwin32window\ofappwin32window.h
+	"ofConstants.h"
+	"ofAppBaseWindow.h"
+	"winman.h"
+
+1326342312 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxwin32window\winman.h
+	<Windows.h>
+	<tchar.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"winmanInternal.h"
+
+1325726741 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxwin32window\winmaninternal.h
+	<windows.h>
+
+1341867313 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxwin32window\winman.cpp
+	"winman.h"
+
+1311979842 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxwin32window\winmaninternal.cpp
+	"winmanInternal.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\calibration\calibrationfilesaver.cpp
+	"calibrationFileSaver.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\calibration\calibrationfilesaver.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"ofxControlPanel.h"
+	"ofxLeastSquares.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxleastsquares\src\ofxleastsquares.h
+	"ofxOpenCv.h"
+
+1327105279 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\calibration\calibrationmanager.cpp
+	"calibrationManager.h"
+
+1327102860 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\calibration\calibrationmanager.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"ofxControlPanel.h"
+	"ofxLeastSquares.h"
+	"calibrationFileSaver.h"
+	"pointFitter.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\calibration\pointfitter.h
+	"ofMain.h"
+	"ofxLeastSquares.h"
+	"calibrationFileSaver.h"
+
+1327104592 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\calibration\calibrationmanager_controlpanel.cpp
+	"calibrationManager.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\calibration\pointfitter.cpp
+	"pointFitter.h"
+
+1341871818 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\cameraoverlay.cpp
+	"cameraOverlay.h"
+	"winman.h"
+
+1341612784 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\cameraoverlay.h
+	"ofxOpenCv.h"
+	<windows.h>
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\eyeplottertestapp.cpp
+	"eyePlotterTestApp.h"
+	"groupCollection.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\eyeplottertestapp.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"baseScene.h"
+	"drawingScene.h"
+	"manipulationScene.h"
+	"styleScene.h"
+	"saverScene.h"
+	"buttonTrigger.h"
+	"grafIO.h"
+	"defines.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\scenes\basescene.h
+	"ofMain.h"
+	"buttonRect.h"
+	"defines.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gui\buttonrect.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\defines.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\scenes\drawingscene.h
+	"ofMain.h"
+	"strokeGroup.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"strokeThumbnails.h"
+	"ofxXmlSettings.h"
+	"baseScene.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\strokes\strokegroup.h
+	"stroke.h"
+	"ofxPoint2f.h"
+	"groupStyle.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\strokes\stroke.h
+	"ofMain.h"
+	"strokePoint.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\strokes\strokepoint.h
+	"ofMain.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\styling\groupstyle.h
+	<string>
+	<map>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gui\buttonstatemanager.h
+	"ofMain.h"
+	"buttonState.h"
+	"ofxVec2f.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gui\buttonstate.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gui\buttontoggle.h
+	"ofMain.h"
+	"buttonRect.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gui\buttontrigger.h
+	"ofMain.h"
+	"buttonRect.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\strokes\strokethumbnails.h
+	"strokeGroup.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\scenes\manipulationscene.h
+	"ofMain.h"
+	"strokeGroup.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"strokeThumbnails.h"
+	"strokeUtils.h"
+	"ofxXmlSettings.h"
+	"grafIO.h"
+	"baseScene.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\strokes\strokeutils.h
+	"strokeGroup.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gml\grafio.h
+	"strokeGroup.h"
+	"ofxXmlSettings.h"
+	"appUtils.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\apputils.h
+	"ofMain.h"
+
+1320375055 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\scenes\stylescene.h
+	"ofMain.h"
+	"strokeGroup.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"strokeThumbnails.h"
+	"ofxXmlSettings.h"
+	"grafIO.h"
+	"baseScene.h"
+	"styling/colorPicker.h"
+
+1320374864 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\styling\colorpicker.h
+	"ofGraphics.h"
+	"buttonTrigger.h"
+	"ofxXmlSettings.h"
+	<string>
+	<map>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\scenes\saverscene.h
+	"ofMain.h"
+	"strokeGroup.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"strokeThumbnails.h"
+	"strokeUtils.h"
+	"ofxXmlSettings.h"
+	"grafIO.h"
+	"gmlUploader.h"
+	"gmlReader.h"
+	"appUtils.h"
+	"fileHelper.h"
+	"baseScene.h"
+	"simpleFtpUpload.h"
+	"ofxDirList.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gml\gmluploader.h
+	"pocoHttpPostForm.h"
+	"ofxXmlSettings.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gml\httposting\pocohttppostform.h
+	"ofMain.h"
+	"ofxThread.h"
+	"Poco/Net/HTTPClientSession.h"
+	"Poco/Net/HTTPRequest.h"
+	"Poco/Net/HTTPResponse.h"
+	"Poco/Net/HTMLForm.h"
+	"Poco/StreamCopier.h"
+	"Poco/Path.h"
+	"Poco/URI.h"
+	"Poco/Exception.h"
+	"Poco/BasicEvent.h"
+	"Poco/Delegate.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gml\gmlreader.h
+	"ofxXmlSettings.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\filehelper.h
+	"ofMain.h"
+	"Poco/Util/FilesystemConfiguration.h"
+	"Poco/File.h"
+	"Poco/Path.h"
+	"Poco/DirectoryIterator.h"
+	"Poco/StringTokenizer.h"
+	"Poco/Exception.h"
+	"Poco/FileStream.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\simpleftpupload.h
+	"Poco/Net/HTTPStreamFactory.h"
+	"Poco/Net/HTTPClientSession.h"
+	"Poco/Net/HTTPRequest.h"
+	"Poco/Net/HTTPResponse.h"
+	"Poco/Net/HTMLForm.h"
+	"Poco/URIStreamOpener.h"
+	"Poco/StreamCopier.h"
+	"Poco/URI.h"
+	"Poco/Exception.h"
+	"Poco/Net/FTPStreamFactory.h"
+	"Poco/Net/FTPClientSession.h"
+	"Poco/File.h"
+	"Poco/Path.h"
+	<fstream>
+	<ios>
+	<iostream>
+
+1320374818 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\strokes\groupcollection.h
+	"ofMain.h"
+	"strokeGroup.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gml\gmlreader.cpp
+	"gmlReader.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gml\gmluploader.cpp
+	"gmlUploader.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gml\grafio.cpp
+	"grafIO.h"
+	"strokeUtils.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gml\httposting\pocohttppostform.cpp
+	"pocoHttpPostForm.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gui\buttonrect.cpp
+	"buttonRect.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gui\buttonstatemanager.cpp
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gui\buttontoggle.cpp
+	"buttonToggle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gui\buttontrigger.cpp
+	"buttonTrigger.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gui\timerbutton.cpp
+	"timerButton.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\gui\timerbutton.h
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\scenes\basescene.cpp
+	"baseScene.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\scenes\drawingscene.cpp
+	"drawingScene.h"
+	"groupCollection.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\scenes\manipulationscene.cpp
+	"manipulationScene.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\scenes\saverscene.cpp
+	"saverScene.h"
+	"renderManager.h"
+	"groupCollection.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\styling\rendermanager.h
+	"strokeGroup.h"
+	"groupStyle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\scenes\stylescene.cpp
+	"styleScene.h"
+	"renderManager.h"
+	"groupCollection.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\strokes\groupcollection.cpp
+	"groupCollection.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\strokes\stroke.cpp
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\strokes\strokegroup.cpp
+	"strokeGroup.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\strokes\strokepoint.cpp
+	"strokePoint.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\strokes\strokethumbnails.cpp
+	"strokeThumbnails.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\strokes\strokeutils.cpp
+	"strokeUtils.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\styling\colorpicker.cpp
+	"colorPicker.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\styling\groupstyle.cpp
+	"groupStyle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\eyeplottertestapp\styling\rendermanager.cpp
+	"renderManager.h"
+
+1342031605 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\imagekey.cpp
+	"imageKey.h"
+
+1342041592 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\imagekey.h
+	"key.h"
+	"ofMain.h"
+
+1342057721 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\key.h
+	"ofMain.h"
+	"buttonRect.h"
+	"ofxTextSuite.h"
+	"roundedRect.h"
+	<string>
+
+1309394586 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\addons\ofxtextsuite\src\ofxtextsuite.h
+	"ofxTextBlock.h"
+
+1312331103 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\roundedrect.h
+	"ofMain.h"
+
+1313604165 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\imagetogglekey.cpp
+	"imageToggleKey.h"
+
+1342041972 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\imagetogglekey.h
+	"imageKey.h"
+	"toggleKey.h"
+
+1342043543 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\togglekey.h
+	"key.h"
+
+1342072600 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\key.cpp
+	"key.h"
+
+1341953021 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\keyboardbase.cpp
+	"keyboardBase.h"
+
+1341967179 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\keyboardbase.h
+	"key.h"
+	"imageKey.h"
+	"imageToggleKey.h"
+
+1342120835 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\keyboardmanager.cpp
+	"keyboardManager.h"
+
+1341944809 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\keyboardmanager.h
+	"qwertyKeyboard.h"
+	"numericKeyboard.h"
+	"keyboardBase.h"
+	"textPrediction.h"
+	"textFieldEx.h"
+	<vector>
+	<string>
+	"ofMain.h"
+
+1326312127 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\qwertykeyboard.h
+	"imageKey.h"
+	"imageToggleKey.h"
+	"keyboardBase.h"
+	"textFieldEx.h"
+	<stdlib.h>
+	<string>
+	"ofMain.h"
+
+1342051756 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\textfieldex.h
+	"key.h"
+	"toggleKey.h"
+	"imageKey.h"
+	"ofImage.h"
+
+1326312200 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\numerickeyboard.h
+	"imageToggleKey.h"
+	"imageKey.h"
+	"keyboardBase.h"
+	"textFieldEx.h"
+	<stdlib.h>
+	<string>
+	"ofMain.h"
+
+1341946198 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\numerickeyboard.cpp
+	"numericKeyboard.h"
+
+1342121383 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\qwertykeyboard.cpp
+	"qwertyKeyboard.h"
+
+1342121419 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\textfieldex.cpp
+	"textFieldEx.h"
+	"key.h"
+	<string>
+	<windows.h>
+	<locale>
+
+1313467817 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\keyboard\togglekey.cpp
+	"toggleKey.h"
+
+1341858525 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\main.cpp
+	"ofMain.h"
+	"testApp.h"
+	"ofAppWin32Window.h"
+	"test.h"
+
+1343351563 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\testapp.h
+	"ofMain.h"
+	"trackingManager.h"
+	"calibrationManager.h"
+	"buttonTrigger.h"
+	"offsetTraining.h"
+	"typingScene.h"
+	"pongScene.h"
+	"keyboardManager.h"
+	"eyePlotterTestApp.h"
+	"globalMouse.h"
+	<windows.h>
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\otherscenes\typingscene.h
+	"ofMain.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"ofxXmlSettings.h"
+	"baseScene.h"
+	"speak.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\otherscenes\speak.h
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\otherscenes\pongscene.h
+	"ofMain.h"
+	"buttonStateManager.h"
+	"buttonState.h"
+	"buttonRect.h"
+	"buttonToggle.h"
+	"buttonTrigger.h"
+	"ofxXmlSettings.h"
+	"baseScene.h"
+	"buttonTrigger.h"
+
+1342053153 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\mouse\globalmouse.h
+	<windows.h>
+	"ofMain.h"
+	"simMouse.h"
+	"buttonRect.h"
+	"imageToggleKey.h"
+	"imageKey.h"
+	"keyboardManager.h"
+	"cameraOverlay.h"
+
+1342053567 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\mouse\simmouse.h
+	<windows.h>
+
+1329102743 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\test.h
+	"ofMain.h"
+	"clVideoGrabber.h"
+	"ofxClEye.h"
+	"clEye.h"
+	"ofxOpenCv.h"
+
+1342053493 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\mouse\globalmouse.cpp
+	"globalMouse.h"
+	"roundedRect.h"
+	"winman.h"
+
+1342078686 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\mouse\simmouse.cpp
+	"simMouse.h"
+	"ofMain.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\otherscenes\pongscene.cpp
+	"pongScene.h"
+
+1320384056 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\otherscenes\typingscene.cpp
+	"typingScene.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\buttons\buttonrect.cpp
+	"buttonRect.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\buttons\buttonrect.h
+	"ofMain.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\buttons\buttontrigger.cpp
+	"buttonTrigger.h"
+
+1287161674 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\buttons\buttontrigger.h
+	"ofMain.h"
+	"buttonRect.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guibaseobject.cpp
+	"guiBaseObject.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guicallback.cpp
+	"guiCallback.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guicallbackvalue.cpp
+	"guiCallbackValue.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guicolor.cpp
+	"guiColor.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitextbase.cpp
+	"guiTextBase.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitype2dslider.cpp
+	"guiType2DSlider.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypebuttonslider.cpp
+	"guiTypeButtonSlider.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypechartplotter.cpp
+	"guiTypeChartPlotter.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypecustom.cpp
+	"guiTypeCustom.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypedrawable.cpp
+	"guiTypeDrawable.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypefilelister.cpp
+	"guiTypeFileLister.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypelogger.cpp
+	"guiTypeLogger.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypemultitoggle.cpp
+	"guiTypeMultiToggle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypepanel.cpp
+	"guiTypePanel.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypeslider.cpp
+	"guiTypeSlider.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypetext.cpp
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypetextdropdown.cpp
+	"guiTypeTextDropDown.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypetoggle.cpp
+	"guiTypeToggle.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypevairablelister.cpp
+	"guiTypeVairableLister.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guitypevideo.cpp
+	"guiTypeVideo.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\guivalue.cpp
+	"guiValue.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\ofxcontrolpanel.cpp
+	"ofxControlPanel.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\simplecolor.cpp
+	"simpleColor.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\simplefilelister.cpp
+	"simpleFileLister.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcontrolpanel\simplelogger.cpp
+	"simpleLogger.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxcvgrayscaleadvanced\ofxcvgrayscaleadvanced.cpp
+	"ofxCvGrayscaleAdvanced.h"
+
+1287161674 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\ofxleastsquares\src\ofxleastsquares.cpp
+	"ofxLeastSquares.h"
+
+1312331827 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\utils\roundedrect.cpp
+	"roundedRect.h"
+
+1343414331 c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\otherscenes\offsettraining.h
+	"baseScene.h"
+	"ofxControlPanel.h"
+	"key.h"
+
+1343414555 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\otherscenes\offsettraining.cpp
+	"offsetTraining.h"
+
+1343367292 source:c:\users\ben\documents\eyetracker\of_prerelease_v0061_win_cb_fat\apps\eyewriterb 2_1_2\eyewritertracker\src\testapp.cpp
+	"testApp.h"
+	"stdio.h"
+	"winman.h"
+

@@ -1,0 +1,28 @@
+<app>
+	
+	<!-- mode, input 0 = live, 1 = video  -->
+
+	<mode>1</mode>
+    
+	
+	<!-- some per mode settings -->
+
+    	<videoFile>C:/Users/Ben/Documents/Eyetracker/videosTony3ew2-cut1.mov</videoFile>
+		<!-- <videoFile>movies/EyeCapture.avi</videoFile> -->
+		<!--<videoFile>C:/Users/Ben/Documents/Eyetracker/videos/RobEyeCap.mp4</videoFile>  -->
+        <videoFrameRate>30</videoFrameRate>
+
+	<videoGrabber>
+        <!-- use ofVideoGrabber = 0, use ofxLibdc = 1, use ofxCLeye = 2 -->
+        <grabberType>2</grabberType>
+
+		<!-- set device id if you need to work with a different camera -->
+
+		<deviceId>2</deviceId>
+
+		<width>640</width>
+		<height>480</height>
+	</videoGrabber>
+
+</app>
+
