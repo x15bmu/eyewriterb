@@ -4,11 +4,19 @@ All files incorporated in this project are copyright by their respective owners 
 
 ======================================================================
 
+		Quick Start
+		
+Follow the build and install instructions at <http://www.instructables.com/id/The-EyeWriter-20/>. Instead of running the software provided under this link, run the software from this repository (the built binary is at bin/EyeWriterB_2_x_y.exe where x & y are the minor release and build numbers). As of the time of writing, this means skipping step 3C, and installing and running the EyeWriterB software instead.
+
+		
+----------------------------------------------------------------------
+
+
 		Description of EyeWriterB
 
 EyeWriterB is a modification of the open source EyeWriter Project and the open source EyeWriter 2.0 project.
 
-To use the program, first calibrate the eye-tracking software to accurately track the eye. Press the enter/return key to toggle between different modes (including the calibration mode). The numbers on the keyboard should also toggle between modes, each number corresponding to a specific mode.
+To use the program, first calibrate the eye-tracking software to accurately track the eye. Press the enter/return key to toggle between different modes (including the calibration mode). The numbers on the keyboard should also toggle between modes, each number corresponding to a specific mode. To control the mouse with the EyeWriter, press the 'm' key on the keyboard to switch to mouse control mode. WARNING: If you are unable to properly control the mouse, you may be able to press 'm' again to return to non-mouse-control mode...if the program window is in focus. Otherwise, you will need to force quit the program using task manager and using the arrow keys to navigate in task manager.
 
 There is additional configuration data that can be found in bin/data/Settings. inputSettings.xml may contain some useful configuration information. If the camera does not work properly although it works in other programs (such as the program distributed with the driver), changing the <deviceId> field to a different number may fix this problem.
 
