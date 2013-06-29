@@ -7,9 +7,11 @@ All files incorporated in this project are copyright by their respective owners 
 		Description of EyeWriterB
 
 EyeWriterB is a modification of the open source EyeWriter Project and the open source EyeWriter 2.0 project.
-To use the program, first calibrate the eye-tracking software to accurately track the eye. Once this step is complete, pressing the enter/return key will toggle between different modes. During calibration, the program goes fullscreen. This is not currently necessary and can be removed if desired.
 
-NOTE: Make sure to close the program by pressing the esc key. Pressing the close button may leave the program running in the background, which can be difficult to detect especially if the console is not enabled. This is due to a problem with GLUT.
+To use the program, first calibrate the eye-tracking software to accurately track the eye. Press the enter/return key to toggle between different modes (including the calibration mode). The numbers on the keyboard should also toggle between modes, each number corresponding to a specific mode.
+
+There is additional configuration data that can be found in bin/data/Settings. inputSettings.xml may contain some useful configuration information. If the camera does not work properly although it works in other programs (such as the program distributed with the driver), changing the <deviceId> field to a different number may fix this problem.
+
 ----------------------------------------------------------------------
 
 		Using the Source Code
