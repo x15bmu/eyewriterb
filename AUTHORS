@@ -1,20 +1,26 @@
-Modifications to EyeWriter:
+EyeWriterB (modifications to EyeWriter and EyeWriter 2.0):
 Ben Mattinson
 	<eyewriterb@gmail.com>
 
 EyeWriter 2.0
-The EyeWriter 2.0 team
+Ito and Kyle
 	see <http://www.instructables.com/id/The-EyeWriter-20/> for more information
 
 Original EyeWriter:
-The original EyeWriter team
+	The original EyeWriter team
 	see <eyewriter.org> for more information	
 
 Presage Text Prediction Library:
 	Matteo Vescovi <matteo.vescovi@yahoo.co.uk>
 
-openFrameworks
-		see <http://www.openframeworks.cc/> for more information
+openFrameworks and associated addons
+	see <http://www.openframeworks.cc/> for more information
 
 ofxTextSuite:
 	Luke Malcolm <www.lukemalcolm.com> (site does not appear to exist anymore)
+	
+ofxCLeye:
+	Elliot Woods
+
+OpenCV:
+	see <http://opencv.org/>
