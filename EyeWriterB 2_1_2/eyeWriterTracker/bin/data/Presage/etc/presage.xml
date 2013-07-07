@@ -63,7 +63,7 @@
     <Predictors>
         <SmoothedNgramPredictor>
             <LOGGER>ERROR</LOGGER>
-            <DBFILENAME>C:/Program Files (x86)/Cygwin/usr/local/share/presage/database_en.db</DBFILENAME>
+            <DBFILENAME>data/Presage/share/presage/database_en.db</DBFILENAME>
             <!-- \delta_0, \delta_1, ..., \delta_{n-1} -->
             <DELTAS>0.01 0.1 0.89</DELTAS>
             <LEARN>false</LEARN>
@@ -84,17 +84,17 @@
 	</DictionaryPredictor>
         <AbbreviationExpansionPredictor>
             <LOGGER>ERROR</LOGGER>
-            <ABBREVIATIONS>C:/Program Files (x86)/Cygwin/usr/local/share/presage/abbreviations_en.txt</ABBREVIATIONS>
+            <ABBREVIATIONS>data/Presage/share/presage/abbreviations_en.txt</ABBREVIATIONS>
         </AbbreviationExpansionPredictor>
         <DejavuPredictor>
             <LOGGER>ERROR</LOGGER>
-            <MEMORY>C:/Program Files (x86)/Cygwin/usr/local/share/presage/dejavu_memory_en.txt</MEMORY>
+            <MEMORY>data/Presage/share/presage/dejavu_memory_en.txt</MEMORY>
             <TRIGGER>3</TRIGGER>
         </DejavuPredictor>
 	<ARPAPredictor>
 	  <LOGGER>ERROR</LOGGER>
-	  <ARPAFILENAME>C:/Program Files (x86)/Cygwin/usr/local/share/presage/arpa_en.arpa</ARPAFILENAME>
-	  <VOCABFILENAME>C:/Program Files (x86)/Cygwin/usr/local/share/presage/arpa_en.vocab</VOCABFILENAME>
+	  <ARPAFILENAME>data/Presage/share/presage/arpa_en.arpa</ARPAFILENAME>
+	  <VOCABFILENAME>data/Presage/share/presage/arpa_en.vocab</VOCABFILENAME>
 	  <TIMEOUT>100</TIMEOUT>
 	</ARPAPredictor>
     </Predictors>
